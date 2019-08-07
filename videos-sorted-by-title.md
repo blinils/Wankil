@@ -1,4 +1,4 @@
-Update: 20190717
+Update: 20190807
 
 * 110km/h de puissance DANS TA GUEULE ! (DayZ)
 * 1 + 1 = JE SAIS PAS (The Escape)
@@ -25,6 +25,7 @@ Update: 20190717
 * AU MENU : FROTTEMENTS, MINEFUN, ZOMBIES TOURISTES, MIEL POPS, ENJOY PHOENIX (Crêpe Suzette)
 * AU MENU: GENOUX, PAYSANS ET CAFARD (Bûche de Noël)
 * AU MENU : MOPED, LE BISOU ET LA NEIGE (Couscous)
+* AU MENU: TRAHISON, JAPON ET ALIEN (Tartiflette)
 * AU MENU : ZOMBIES, TERRORISTES, CHIENS ET DINOSAURES (Fondue Savoyarde)
 * AVEC DES GENS MÉCHANTS. TOUT NUS. (Rust RP)
 * Avec supplément jeux d'action svp (Kebab Mayo)
@@ -514,6 +515,7 @@ Update: 20190717
 * ON OFFRE LES PIRES CADEAUX DE NOËL
 * ON OUVRE VOS COLIS, ÇA FAIT MAL !
 * ON OUVRE VOS COLIS, C'EST LA FÊTE DES BEAUFS !
+* ON OUVRE VOS COLIS, C'EST LÉGAL OU PAS ?
 * ON OUVRE VOS COLIS, C'ÉTAIT PAS UNE BONNE IDÉE...
 * ON OUVRE VOS COLIS, VOUS ÊTES DES MALADES !
 * ON PARIE NOS PARTIES DU CORPS (CS:GO)
@@ -552,6 +554,7 @@ Update: 20190717
 * Pédro la bétonneuse et the final countdown (DayZ Origins)
 * PEUT-ON BOIRE SON PIPI ?
 * Peut-on conduire sans permis ? (Project CARS)
+* PEUT-ON FAIRE CUIRE UN OEUF SUR SON PC ?
 * PGM LOL ZIZI PGM (CS:GO)
 * PIGEON QUI VOLE EST PLUS RUSÉ QUE RENARD QUI PÈTE (Aragami)
 * Plus bas Andrielle... (Le Seigneur des Anneaux : War in the North)
@@ -570,7 +573,6 @@ Update: 20190717
 * QU'EST CE QUI A 4 JAMBES ET 1 CARAPACE ? (CS:GO)
 * QU'EST CE QUI EST GROS ET QUI PUE ? (Dauntless)
 * QUESTION POUR UN CHAMPION AVEC LES ABONNÉS (Master of the Grid)
-* QUI A PEINT LE GROS BÉBÉ QUI PISSE ?! (Layers of Fear)
 * QUI DE NOUS DEUX VA DEVENIR RICHE ?
 * QUI EST LE LOUP-GAROU ? (Werewolves Within VR) ft. Amixem, Cyril
 * QUI VA GAGNER LA FINALE FRANCE - CROATIE (Fifa 18)
@@ -586,6 +588,7 @@ Update: 20190717
 * SERPENTARD !!! (Rocket League)
 * SE TOUCHER LA ZIQUETTE DANS L'ESPACE (Star Citizen)
 * SEULS CONTRE 100 ABONNÉS ZOMBIES (PUBG)
+* SIMULATION DU RAID DE LA ZONE 51 (Ultimate Epic Battle Simulator)
 * SI ON ÉTAIT EN COUPLE (Need For Drink)
 * SI TU RIGOLES, TU MEURS.
 * Soirée improvisée avec Zedane
@@ -630,7 +633,9 @@ Update: 20190717
 * UNE ROUTE QU'ON AURAIT PAS DÛ PRENDRE... (DayZ RP) #2
 * Une tarte avec des morceaux de jeux à l'intérieur (Tarte Tatin)
 * UN HOMME DE HACHE !!! (Cry of Fear)
+* UN INDIEN DANS LA GAME (The Walking Dead)
 * UN JEU DE MALADE MENTAL (Human: Fall Flat)
+* UN LOUP GAROU DANS LE VILLAGE (Werewolves Within VR) ft. Amixem, Cyril, Dimitri
 * UTILISE TON GHETTO BLASTER LUKE ! (Star Wars Battlefront)
 * VALÉRIE NOUS FAIT PEUR POUR HALLOWEEN (Stairs)
 * Victime Bolosse (Half-Life 2 en COOP)
@@ -648,4 +653,3 @@ Update: 20190717
 * Y A PAS D'CALCAIRE ! (Hurtworld)
 * YO MISTER WHITE ! OH BITCH... (No More Room In Hell) ft. Guzz et Porto
 * You like blood transfusion ? (DayZ)
-

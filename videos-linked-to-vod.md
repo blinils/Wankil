@@ -1,4 +1,4 @@
-Update: 20190717
+Update: 20190807
 
 * **[Avec supplément jeux d'action svp (Kebab Mayo)](https://www.youtube.com/watch?v=fUB8N6QS-1c)** : 
 VOD Battlefield 4 
@@ -922,7 +922,7 @@ VOD CS:GO
 [[3/3]](https://www.youtube.com/watch?v=lZh0l2b5KJI) <!--26/04/2015--> 
 
 VOD Don't Starve 
-[[1/1]](https://www.youtube.com/watch?v=xdSwh6UzIJ0) <!--27/04/2015--> 
+[[1/1]](https://www.youtube.com/watch?v=IEaX_nYs-lM) <!--27/04/2015--> 
 
 VOD CS:GO 
 [[1/5]](https://www.youtube.com/watch?v=2m3CUgEKM1Y) <!--30/04/2015--> 
@@ -2740,6 +2740,7 @@ VOD Visage
 VOD Visage 
 [[1/1]](https://www.youtube.com/watch?v=8dqDsdfg2Xw) <!--23/11/2018--> 
 
+* **[UN INDIEN DANS LA GAME (The Walking Dead)](https://www.youtube.com/watch?v=7JQtQoDbAkY)** : 
 VOD OVERKILL's The Walking Dead 
 [[1/1]](https://www.youtube.com/watch?v=8m_ABo_07Lg) <!--24/11/2018--> 
 
@@ -3032,4 +3033,36 @@ VOD Jalopy
 
 VOD Stranded Deep 
 [[1/1]](https://www.youtube.com/watch?v=xqnF4ABThpE) <!--17/07/2019--> 
+
+VOD Speedrunners, Gang Beast, Worms (avec Squeezie et Doigby) 
+[[1/1]](https://www.youtube.com/watch?v=Rm8GGbqqEUA) <!--18/07/2019--> 
+
+VOD Desert Skies 
+[[1/1]](https://www.youtube.com/watch?v=vOqeyC2WeKk) <!--19/07/2019--> 
+
+* **[SIMULATION DU RAID DE LA ZONE 51 (Ultimate Epic Battle Simulator)](https://www.youtube.com/watch?v=mV6tkxSzLpY)** : 
+VOD Simulation Raid Zone 51 
+[[1/1]](https://www.youtube.com/watch?v=vkk2KEkciYk) <!--20/07/2019--> 
+
+VOD Storm Chasers 
+[[1/1]](https://www.youtube.com/watch?v=Z6tt-shSY5U) <!--21/07/2019--> 
+
+VOD Totally Reliable Delivery Service 
+[[1/1]](https://www.youtube.com/watch?v=A32tGfYk6v4) <!--22/07/2019--> 
+
+VOD Subsistence 
+[[1/1]](https://www.youtube.com/watch?v=oFIQwRRNrwY) <!--23/07/2019--> 
+
+VOD Visage (chapitre 2) 
+[[1/2]](https://www.youtube.com/watch?v=u8LHkzhfA34) <!--24/07/2019--> 
+[[2/2]](https://www.youtube.com/watch?v=1P6YU4bqUv4) <!--01/08/2019--> 
+
+VOD Minecraft 
+[[1/?]](https://www.youtube.com/watch?v=P5gRdzAAT-4) <!--03/08/2019--> 
+
+VOD - Laink - Until Dawn 
+[[1/1]](https://www.youtube.com/watch?v=PBTpOnsRzWA) <!--05/08/2019--> 
+
+VOD DayZ 
+[[1/1]](https://www.youtube.com/watch?v=myeg0AqCmvY) <!--07/08/2019--> 
 
