@@ -1,4 +1,4 @@
-Update: 20190807
+Update: 20191001
 
 * 110km/h de puissance DANS TA GUEULE ! (DayZ)
 * 1 + 1 = JE SAIS PAS (The Escape)
@@ -27,6 +27,7 @@ Update: 20190807
 * AU MENU : MOPED, LE BISOU ET LA NEIGE (Couscous)
 * AU MENU: TRAHISON, JAPON ET ALIEN (Tartiflette)
 * AU MENU : ZOMBIES, TERRORISTES, CHIENS ET DINOSAURES (Fondue Savoyarde)
+* AVANT IL Y AVAIT UNE JOLIE FORÊT, MAIS ÇA C’ÉTAIT AVANT (Minecraft)
 * AVEC DES GENS MÉCHANTS. TOUT NUS. (Rust RP)
 * Avec supplément jeux d'action svp (Kebab Mayo)
 * AVEC SUPPLÉMENTS CS:GO, DAYZ ET THE HUNTER (Boulettes Barcelonaises)
@@ -41,6 +42,7 @@ Update: 20190807
 * BOGEEEEEEY (Golf With Your Friends)
 * BRAQUAGE DE LA BANQUE (Arma 3 RP) ft. Bibix et MR
 * Braquages, courses, football et arcades (Sushi Maki)
+* CACHE-CACHE GÉANT DANS MA MAISON (CSS)
 * ÇA FAIT UN AN QU'ON ATTEND DE FAIRE CETTE VIDÉO !
 * CAPTURER LES MEILLEURS POKÉMON
 * CARMAGEDDON (GTA IV) ft. Guzz et Porto
@@ -51,6 +53,7 @@ Update: 20190807
 * CELUI QUI PERD DONNE SON COMPTE TWITTER (Hitman 2)
 * CELUI QUI PERD SUCE L'AUTRE (SportsBar VR)
 * Ce n'est que charme et sorcellerie monseigneur ! (Chivalry: Medieval Warfare)
+* CE QU'IL SE PASSE RÉELLEMENT DERRIÈRE YOUTUBE (Dauntless)
 * CE QU'IL Y A VRAIMENT DANS VOS PIZZAS (Roblox)
 * CE SITE C'EST L'ARNAQUE DU SIÈCLE (Toreba)
 * CE SPORT EST INTERDIT (Disc Jam)
@@ -136,6 +139,7 @@ Update: 20190807
 * EH TU VEUX M'EMBRAFFER ? (Gmod Deathrun) ft. Guzz et Gydias
 * ELLE N'A PAS SUPPORTÉ LE DIVORCE (Home Sweet Home)
 * ELLE VA SE CALMER LA BLONDASSE (Le Seigneur des Anneaux)
+* ENVIE DE PIPI + BOUTEILLE VIDE = OUI C'EST POSSIBLE (Witch Hunt)
 * ENVOLE-TOI MON GROS COCHON (Unruly Heroes)
 * ÉPLUCHE MA CAROTTE (Plants vs. Zombies)
 * Espèce d'infirme ! (GTA IV)
@@ -192,9 +196,11 @@ Update: 20190807
 * Infiltration et cracottes (Splinter Cell: Blacklist)
 * INFILTRATION RATÉE DANS LA PRISON (GTA V)
 * Iniesta, Ashley Young, Lee, Guy Roux (FIFA 13)
+* INTERDIT D'AVOIR DES SAUCISSES À LA FRONTIÈRE (Jalopy)
 * J’ACHÈTE LAS VEGAS POUR 100 EUROS (Business Tour)
 * Jacques, le Squelette Sympa (Half-Life 2: EP2 en COOP)
 * J'AI CACHÉ MA BELLE-MÈRE DANS LE BUNKER (House Flipper)
+* J'AI EU UN GRAVE ACCIDENT AU CERVEAU (Storm Chasers)
 * J'AI FAIT UN UNBOXING SANS FAIRE EXPRÈS
 * J'AI GAGNÉ LE SUPER COUTEAU !!! (Case Opening CS:GO)
 * J'AI GLISSÉ CAPITAINE (Blackwake) ft. Squeezie, Cyril, Mickalow
@@ -207,7 +213,6 @@ Update: 20190807
 * J'APPELLE MA MÈRE POUR GAGNER LE MILLION (Qui veut gagner des millions)
 * J'APPRENDRE LA SURVIE ET LA CONJUGAISON (H1Z1)
 * JE ME BARRE ! JE ME SUIS BARRÉ ! (DayZ)
-* JE ME SUIS COINCÉ UN TESTICULE (Five Nights at Freddy's)
 * JE PIRATE L'ORDI DE LA VOISINE (Welcome to the Game 2)
 * JE RACHÈTE LA JOCONDE POUR 5 DOLLARS (Thief Simulator)
 * Je saute en parachute comme Rico Rodriguez (Just Cause 3)
@@ -241,6 +246,7 @@ Update: 20190807
 * LA FOIRE À LA SAUCISSE (Ben and Ed) ft. Amixem et Cyril
 * LA FORÊT - LES AVENTURES WANKULS (Animation Officielle)
 * La France au GTX Challenge
+* LA GRANDE AVENTURE COMMENCE (Minecraft)
 * LA GRANDE GUERRE DES YOUTUBERS (Worms 3D)
 * LA GRANDE RAGE (CS:GO)
 * La greffe de cœur pour les nuls (Surgeon Simulator)
@@ -250,6 +256,7 @@ Update: 20190807
 * La guerre en bicyclette (Heroes and Generals)
 * LA GUERRE EST DÉCLARÉE CONTRE AMIXEM ET JOYCA
 * La guerre. Tout nus. (RUST RP)
+* LA HONTE DE MON ENFANCE... (Minecraft)
 * #lainkapété
 * Laink et Terracid #1 // Battlefield BC2
 * Laink et Terracid à la CAVICon 2015
@@ -329,6 +336,7 @@ Update: 20190807
 * Le lancer de boules de 98' (Half-Life 2: EP2 en COOP)
 * LE MAXI BEST OF DE LAINK ET TERRACID
 * LE MEC RELOU QUI TE PREND LA MANETTE (The Room)
+* LE MEILLEUR JEU DU MONDE EST DE RETOUR (DayZ)
 * LE MEILLEUR SIMULATEUR D'ACCIDENTS (BeamNG Drive)
 * LE MEILLEUR SKIN GMOD (Gmod Horror Map)
 * L'ENFANT PAS SAGE - LES AVENTURES WANKULS (Animation Officielle)
@@ -400,9 +408,12 @@ Update: 20190807
 * LES QUESTIONS EXISTENTIELLES (Rocket League)
 * LES RICHES VS LES PAUVRES (Warhammer Vermintide)
 * LES ROIS DE LA BASTON (Paint the Town Red)
+* LES SECRETS ET COFFRES CACHÉS DU MONDE (Minecraft)
+* LES SECRETS QU'ON NE VOUS A JAMAIS DIT (FAQ 2019)
 * LES SPORTS EXTRÊMES À NE PAS FAIRE !
 * LE STALK (RUST RP)
 * Les Télétubbies c'est terrifiant (Slendytubbies)
+* LES TRÉSORS CACHÉS DANS LA NATURE (Treasure Hunter)
 * Les vacances et les zombies (Dead Island Riptide)
 * LES VIRUS BABA ET DELORMEAU ANÉANTISSENT LA PLANÈTE (Plague Inc)
 * LES VOISINS RELOUS (Hello Neighbor)
@@ -445,6 +456,7 @@ Update: 20190807
 * MAIS DIS-LE-MOI !!! (CS:GO)
 * MAIS ÉCLAIREZ-LE !!! (White Noise 2) ft. Guzz, Porto, Gydias
 * MAIS ESPÈCE DE DÉBILE !!! (World of Warships)
+* MAISON CLOSE AVEC LES VILLAGEOIS (Minecraft)
 * MAIS PARTAGE LES RESSOURCES BORDEL !!! (Stellar Overload)
 * MAIS QUI VOUDRAIT ALLER DANS CE LYCÉE ?! (Obscure)
 * MAIS QUI VOUDRAIT ÊTRE YOUTUBER ?! (Black Ops 4)
@@ -575,6 +587,8 @@ Update: 20190807
 * QUESTION POUR UN CHAMPION AVEC LES ABONNÉS (Master of the Grid)
 * QUI DE NOUS DEUX VA DEVENIR RICHE ?
 * QUI EST LE LOUP-GAROU ? (Werewolves Within VR) ft. Amixem, Cyril
+* QUI FAIT LA TAILLE ET LE POIDS D'UNE TRUIE ? (Resident Evil 2)
+* QUI PEUT PASSER UNE NUIT DANS CETTE MAISON ? (Conjuring House)
 * QUI VA GAGNER LA FINALE FRANCE - CROATIE (Fifa 18)
 * QUI VEUT GAGNER DES BITCOINS ?
 * RETOUR VERS LE FUTUR (GTA IV) ft. Guzz et Porto
