@@ -1,4 +1,4 @@
-Update: 20191001
+Update: 20191111
 
 * **[Avec supplément jeux d'action svp (Kebab Mayo)](https://www.youtube.com/watch?v=fUB8N6QS-1c)** : 
 VOD Battlefield 4 
@@ -93,7 +93,7 @@ VOD Insurgency
 * **[Soupe au Pistou avec des morceaux de jeux dedans](https://www.youtube.com/watch?v=h57Bsakp7Dg)** : 
 VOD Damned 
 [[1/2]](https://www.youtube.com/watch?v=uDbBIRk2G-o) <!--29/11/2013--> 
-[[2/2]](https://www.youtube.com/watch?v=uDbBIRk2G-o) <!--30/11/2013--> 
+[[2/2]](https://www.youtube.com/watch?v=f6PKDLZp2Rc) <!--30/11/2013--> 
 et 
 VOD Lost Planet 2 
 [[1/5]](https://www.youtube.com/watch?v=enTYCuuYYuY) <!--01/12/2013--> 
@@ -216,8 +216,8 @@ VOD DayZ
 [[4/4]](https://www.youtube.com/watch?v=YkkeJg_XjZc) <!--28/02/2014--> 
 et 
 [[1/6]](https://www.youtube.com/watch?v=n2X7pHl4PXI) <!--07/03/2014--> 
-[[2/6]](https://www.youtube.com/watch?v=n2X7pHl4PXI) <!--08/03/2014--> 
-[[3/6]](https://www.youtube.com/watch?v=n2X7pHl4PXI) <!--09/03/2014--> 
+[[2/6]](https://www.youtube.com/watch?v=FXQ-WAfVSfA) <!--08/03/2014--> 
+[[3/6]](https://www.youtube.com/watch?v=R-5VYtCaE3U) <!--09/03/2014--> 
 [[4/6]](https://www.youtube.com/watch?v=byNtTf_OLN0) <!--10/03/2014--> 
 [[5/6]](https://www.youtube.com/watch?v=yF_h2J7WkWI) <!--11/03/2014--> 
 [[6/6]](https://www.youtube.com/watch?v=GgMnvDEpj5U) <!--12/03/2014--> 
@@ -265,7 +265,7 @@ VOD DayZ
 [[2/3]](https://www.youtube.com/watch?v=hxAtSGnzF_M) <!--30/04/2014--> 
 [[3/3]](https://www.youtube.com/watch?v=qmirWIiPkXw) <!--01/05/2014--> 
 et
-VOD DayZ - La Grande Aventure 
+VOD DayZ 
 [[3/21]](https://www.youtube.com/watch?v=EoCBQwt8Q6w) <!--05/05/2014--> 
 [[4/21]](https://www.youtube.com/watch?v=4gvOqiK1B4Q) <!--06/05/2014--> 
 
@@ -291,7 +291,7 @@ VOD DayZ
 [[13/21]](https://www.youtube.com/watch?v=8Rbt51GIbs0) <!--15/05/2014--> 
 
 * **[La rencontre avec Babilabux (DayZ)](https://www.youtube.com/watch?v=UkhI10MKi_4)** : 
-VOD DayZ - La Grande Aventure 
+VOD DayZ 
 [[14/21]](https://www.youtube.com/watch?v=-pPrj-g-MUs) <!--16/05/2014--> 
 [[15/21]](https://www.youtube.com/watch?v=mjTftQAo7mo) <!--17/05/2014--> 
 [[16/21]](https://www.youtube.com/watch?v=Bitr_TsMFMI) <!--18/05/2014--> 
@@ -454,6 +454,7 @@ VOD Hôtel
 [[2/3]](https://www.youtube.com/watch?v=QfmfSa5OAGM) <!--19/08/2014--> 
 [[3/3]](https://www.youtube.com/watch?v=oBQ130rIzIk) <!--20/08/2014--> 
 
+* **[AVEC SUPPLÉMENTS CS:GO, DAYZ ET THE HUNTER (Boulettes Barcelonaises](https://www.youtube.com/watch?v=m5FPGPtGIxc)** : 
 VOD DayZ 
 [[1/6]](https://www.youtube.com/watch?v=McOaZF-qtgw) <!--22/08/2014--> 
 [[2/6]](https://www.youtube.com/watch?v=1a7MwYMyv08) <!--23/08/2014--> 
@@ -461,6 +462,13 @@ VOD DayZ
 [[4/6]](https://www.youtube.com/watch?v=4WRLykp25LY) <!--25/08/2014--> 
 [[5/6]](https://www.youtube.com/watch?v=8wNoDMgUA-w) <!--26/08/2014--> 
 [[6/6]](https://www.youtube.com/watch?v=AtT7JPHXkYk) <!--27/08/2014--> 
+et 
+VOD The Hunter 
+[[5/5]](https://www.youtube.com/watch?v=7-a190phK5s) <!--19/09/2014--> 
+et 
+VOD The Hunter 
+[[4/5]](https://www.youtube.com/watch?v=DbvcoLMw4cw) <!--20/11/2014--> 
+[[5/5]](https://www.youtube.com/watch?v=sAGreBRTPn8) <!--21/11/2014--> 
 
 * **[Le défi Pot-au-feu (DayZ)](https://www.youtube.com/watch?v=YMJGy2KgbeE)** : 
 VOD DayZ : Le défi pot-au-feu 
@@ -491,12 +499,20 @@ VOD CS:GO
 [[2/3]](https://www.youtube.com/watch?v=c6ZMCewUWOI) <!--13/09/2014--> 
 [[3/3]](https://www.youtube.com/watch?v=oNc_MRjYSEo) <!--14/09/2014--> 
 
+* **[Chasser un ours grâce à son caca (The Hunter)](https://www.youtube.com/watch?v=J8rS1i0RWEE)** : 
 VOD The Hunter 
 [[1/5]](https://www.youtube.com/watch?v=9LHSMAqu4K4) <!--15/09/2014--> 
 [[2/5]](https://www.youtube.com/watch?v=Oojug8Nd2dI) <!--16/09/2014--> 
 [[3/5]](https://www.youtube.com/watch?v=PIXDJgjF8UM) <!--17/09/2014--> 
+
+* **[On part à la chasse ! (The Hunter)](https://www.youtube.com/watch?v=VSmq1N1U_dU)** : 
+VOD The Hunter 
 [[4/5]](https://www.youtube.com/watch?v=Q-RJTDDuZlI) <!--18/09/2014--> 
 [[5/5]](https://www.youtube.com/watch?v=7-a190phK5s) <!--19/09/2014--> 
+et 
+[[1/5]](https://www.youtube.com/watch?v=L1VgfSgafNA) <!--17/11/2014--> 
+[[2/5]](https://www.youtube.com/watch?v=HSuyJBB0Nd0) <!--18/11/2014--> 
+[[3/5]](https://www.youtube.com/watch?v=n_kWeAw0gag) <!--19/11/2014--> 
 
 * **[La guerre en bicyclette (Heroes and Generals)](https://www.youtube.com/watch?v=yuPkqeHDt6o)** : 
 VOD Heroes & Generals 
@@ -504,6 +520,7 @@ VOD Heroes & Generals
 [[2/3]](https://www.youtube.com/watch?v=fC8RBHzqx00) <!--21/09/2014--> 
 [[3/3]](https://www.youtube.com/watch?v=Re_gk7IWshY) <!--22/09/2014--> 
 
+* **[#lainkapété](https://www.youtube.com/watch?v=OK-p4DcZkC8)** : 
 VOD Prop Hunt (feat. Guzzproductions) 
 [[1/6]](https://www.youtube.com/watch?v=4E6DxSrGD2k) <!--25/09/2014--> 
 [[2/6]](https://www.youtube.com/watch?v=aaojs1OYTjA) <!--26/09/2014--> 
@@ -603,13 +620,6 @@ VOD CS:GO
 VOD Live pété à l'hôtel 
 [[1/1]](https://www.youtube.com/watch?v=ao9zRAa_Ybw) <!--13/11/2014--> 
 
-VOD The Hunter 
-[[1/5]](https://www.youtube.com/watch?v=L1VgfSgafNA) <!--17/11/2014--> 
-[[2/5]](https://www.youtube.com/watch?v=HSuyJBB0Nd0) <!--18/11/2014--> 
-[[3/5]](https://www.youtube.com/watch?v=n_kWeAw0gag) <!--19/11/2014--> 
-[[4/5]](https://www.youtube.com/watch?v=DbvcoLMw4cw) <!--20/11/2014--> 
-[[5/5]](https://www.youtube.com/watch?v=sAGreBRTPn8) <!--21/11/2014--> 
-
 * **[OUVREZ LES ÉCOUTILLES DE BALLES ! (CS:GO)](https://www.youtube.com/watch?v=UlnLQyKB_L8)** : 
 VOD CS:GO 
 [[1/2]](https://www.youtube.com/watch?v=6F7PNr3usAc) <!--25/11/2014--> 
@@ -620,11 +630,14 @@ et
 [[3/4]](https://www.youtube.com/watch?v=acgGGDkMdWg) <!--29/11/2014--> 
 [[4/4]](https://www.youtube.com/watch?v=n6FZ6zCA74g) <!--30/11/2014--> 
 
+VOD Master of the Grid 
+[[1/1]](https://www.youtube.com/watch?v=n6FZ6zCA74g) <!--30/11/2014--> 
+
 * **[JE VOIS DES CHOSES... (Far Cry 4)](https://www.youtube.com/watch?v=cnipNvHCfak)** : 
 VOD Far Cry 4 
 [[1/3]](https://www.youtube.com/watch?v=xvYfymdbODo) <!--01/12/2014--> 
-[[2/3]](https://www.youtube.com/watch?v=3yKV0XlmHhM) <!--02/12/2014--> 
-[[3/3]](https://www.youtube.com/watch?v=nXfRcGHukAg) <!--03/12/2014--> 
+[[2/3]](https://www.youtube.com/watch?v=TyjAbFaAl20) <!--02/12/2014--> 
+[[3/3]](https://www.youtube.com/watch?v=Tik0kSQDeM8) <!--03/12/2014--> 
 
 * **[LES MOTHERFUCKING WINGSUITS ! (Far Cry 4)](https://www.youtube.com/watch?v=XZdrDKtiABY)** : 
 VOD Far Cry 4 
@@ -708,7 +721,7 @@ VOD CS:GO
 [[1/2]](https://www.youtube.com/watch?v=8ykdBU8DYa8) <!--13/01/2015--> 
 [[2/2]](https://www.youtube.com/watch?v=CtOJREzJlfA) <!--14/01/2015--> 
 
-VOD Bomb Party 
+VOD BombParty 
 [[1/1]](https://www.youtube.com/watch?v=CtOJREzJlfA) <!--14/01/2015--> 
 
 VOD Far Cry 4 
@@ -768,10 +781,14 @@ VOD Rust
 
 * **[J'SUIS SHÉRIF, J'AI UN PISTOLET ! (CS:GO)](https://www.youtube.com/watch?v=Tvdxmb7A7uc)** : 
 VOD CS:GO 
-... 
-et 
 [[1/2]](https://www.youtube.com/watch?v=ogZC9SO82KM) <!--12/02/2015--> 
 [[2/2]](https://www.youtube.com/watch?v=rb4Rl0s4fY0) <!--13/02/2015--> 
+et 
+[[1/2]](https://www.youtube.com/watch?v=jTTCJyyJG5g) <!--20/03/2015--> 
+[[2/2]](https://www.youtube.com/watch?v=DrCytUc1-4Q) <!--21/03/2015--> 
+et 
+[[1/2]](https://www.youtube.com/watch?v=6xeQyTfp6aw) <!--23/03/2015--> 
+[[2/2]](https://www.youtube.com/watch?v=HRdhBXNX5sg) <!--24/03/2015--> 
 
 * **[LA SÉPARATION DE WANKIL (H1Z1)](https://www.youtube.com/watch?v=XFb-Y4KG_iQ)** : 
 VOD H1Z1 
@@ -858,14 +875,6 @@ VOD theHunter: Primal
 [[1/2]](https://www.youtube.com/watch?v=liExI3JsXT4) <!--21/01/2015--> 
 [[2/2]](https://www.youtube.com/watch?v=8tnvG49pSqI) <!--22/01/2015--> 
 
-VOD CS:GO 
-[[1/2]](https://www.youtube.com/watch?v=jTTCJyyJG5g) <!--20/03/2015--> 
-[[2/2]](https://www.youtube.com/watch?v=DrCytUc1-4Q) <!--21/03/2015--> 
-
-VOD CS:GO 
-[[1/2]](https://www.youtube.com/watch?v=6xeQyTfp6aw) <!--23/03/2015--> 
-[[2/2]](https://www.youtube.com/watch?v=HRdhBXNX5sg) <!--24/03/2015--> 
-
 VOD DayZ 
 [[1/4]](https://www.youtube.com/watch?v=lSrBfN04YDk) <!--25/03/2015--> 
 [[2/4]](https://www.youtube.com/watch?v=XOOUGd_ispI) <!--26/03/2015--> 
@@ -929,6 +938,10 @@ VOD CS:GO
 [[2/5]](https://www.youtube.com/watch?v=92DGmQXGq5A) <!--01/05/2015--> 
 [[3/5]](https://www.youtube.com/watch?v=Q7COHB60se8) <!--02/05/2015--> 
 [[4/5]](https://www.youtube.com/watch?v=BMF5WM8Bd7Y) <!--03/05/2015--> 
+[[5/5]](https://www.youtube.com/watch?v=53htOhnJ1i8) <!--04/05/2015--> 
+
+* **[Comment faire pour gagner tous ses paris ?](https://www.youtube.com/watch?v=V9E_Fo3E_lc)** : 
+VOD CS:GO 
 [[5/5]](https://www.youtube.com/watch?v=53htOhnJ1i8) <!--04/05/2015--> 
 
 * **[De la rage et des billets (Battlefield Hardline)](https://www.youtube.com/watch?v=hD3XMtF9ZD4)** : 
@@ -1021,16 +1034,16 @@ et
 VOD GTA V 
 [[1/8]](https://www.youtube.com/watch?v=NwWjRRLwD5A) <!--08/06/2015--> 
 [[2/8]](https://www.youtube.com/watch?v=pX2wTqQKz28) <!--09/06/2015--> 
-[[3/8]](https://www.youtube.com/watch?v=tga73VtKe8k) <!--10/06/2015--> 
-[[4/8]](https://www.youtube.com/watch?v=cZyPisa3SQ4) <!--11/06/2015--> 
+[[3/8]](https://www.youtube.com/watch?v=upv9nD6EdQQ) <!--10/06/2015--> 
+[[4/8]](https://www.youtube.com/watch?v=zTgRL37CRtU) <!--11/06/2015--> 
 
 * **[LA VOITURE LA PLUS RIDICULE DU MONDE (GTA V) ft. Guzz](https://www.youtube.com/watch?v=DY9rsryGKpg)** : 
 VOD GTA V 
-[[4/8]](https://www.youtube.com/watch?v=cZyPisa3SQ4) <!--11/06/2015--> 
-[[5/8]](https://www.youtube.com/watch?v=jMkAiCtJasE) <!--12/06/2015--> 
-[[6/8]](https://www.youtube.com/watch?v=CDQC-bQ29As) <!--13/06/2015--> 
-[[7/8]](https://www.youtube.com/watch?v=jMkAiCtJasE) <!--14/06/2015--> 
-[[8/8]](https://www.youtube.com/watch?v=CDQC-bQ29As) <!--15/06/2015--> 
+[[4/8]](https://www.youtube.com/watch?v=zTgRL37CRtU) <!--11/06/2015--> 
+[[5/8]](https://www.youtube.com/watch?v=f2GsEZlmwPQ) <!--12/06/2015--> 
+[[6/8]](https://www.youtube.com/watch?v=taRl_KLH2qs) <!--13/06/2015--> 
+[[7/8]](https://www.youtube.com/watch?v=x8FyLfgogMo) <!--14/06/2015--> 
+[[8/8]](https://www.youtube.com/watch?v=29DkRu25F-Q) <!--15/06/2015--> 
 
 * **[INFILTRATION RATÉE DANS LA PRISON (GTA V)](https://www.youtube.com/watch?v=KLl5HmQ5VK0)** : 
 VOD GTA V 
@@ -1078,14 +1091,16 @@ VOD GTA V
 [[5/9]](https://www.youtube.com/watch?v=EWmdiS_zS1U) <!--09/07/2015--> 
 [[6/9]](https://www.youtube.com/watch?v=WVvIOyg9NS0) <!--10/07/2015--> 
 [[7/9]](https://www.youtube.com/watch?v=gNlXL7TPitg) <!--11/07/2015--> 
+
+VOD GTA V 
 [[8/9]](https://www.youtube.com/watch?v=n7gy2FgddwM) <!--12/07/2015--> 
 [[9/9]](https://www.youtube.com/watch?v=a6Nyp8yKX2c) <!--13/07/2015--> 
 
 VOD - Terracid - The Walking Dead : Saison 2 
 [[1/5]](https://www.youtube.com/watch?v=K-jx2O7KXxE) <!--09/07/2015--> 
-[[2/5]](https://www.youtube.com/watch?v=PL6mxHlormY) <!--10/07/2015--> 
-[[3/5]](https://www.youtube.com/watch?v=CAuqrGSUFac) <!--11/07/2015--> 
-[[4/5]](https://www.youtube.com/watch?v=11cWZvkJd5k) <!--12/07/2015--> 
+[[2/5]](https://www.youtube.com/watch?v=PL6mxHlormY) <!--11/07/2015--> 
+[[3/5]](https://www.youtube.com/watch?v=CAuqrGSUFac) <!--12/07/2015--> 
+[[4/5]](https://www.youtube.com/watch?v=11cWZvkJd5k) <!--13/07/2015--> 
 [[5/5]](https://www.youtube.com/watch?v=lHYehp4HufI) <!--16/07/2015--> 
 
 VOD GTA V 
@@ -1119,23 +1134,23 @@ et
 [[1/2]](https://www.youtube.com/watch?v=Q9NaKJIViY0) <!--03/08/2015--> 
 [[2/2]](https://www.youtube.com/watch?v=HfFnf1lvvZQ) <!--04/08/2015--> 
 
-* **[LES POLICIERS HOMOPHOBES DU TEXAS (GTA V)](https://www.youtube.com/watch?v=UjzEUTGh4hg)** : 
-VOD GTA V 
-[[2/2]](https://www.youtube.com/watch?v=HfFnf1lvvZQ) <!--04/08/2015--> 
-
 VOD CS:GO 
 [[1/2]](https://www.youtube.com/watch?v=sH6kLGntnU8) <!--01/08/2015--> 
 [[2/2]](https://www.youtube.com/watch?v=2FbL2ldMBe0) <!--02/08/2015--> 
+
+* **[LES POLICIERS HOMOPHOBES DU TEXAS (GTA V)](https://www.youtube.com/watch?v=UjzEUTGh4hg)** : 
+VOD GTA V 
+[[1/2]](https://www.youtube.com/watch?v=Q9NaKJIViY0) <!--03/08/2015--> 
+[[2/2]](https://www.youtube.com/watch?v=HfFnf1lvvZQ) <!--04/08/2015--> 
+et 
+[[1/2]](https://www.youtube.com/watch?v=KeMtaqnKT4g) <!--08/08/2015--> 
+[[2/2]](https://www.youtube.com/watch?v=tASN9lLXPek) <!--09/08/2015--> 
 
 * **[QUAND TON COÉQUIPIER EST UN ENFANT (CS:GO)](https://www.youtube.com/watch?v=nsJJCyW3f6k)** : 
 VOD CS:GO 
 [[1/3]](https://www.youtube.com/watch?v=aQ_AJ81QL2A) <!--05/08/2015--> 
 [[2/3]](https://www.youtube.com/watch?v=bqYHq27TWBE) <!--06/08/2015--> 
 [[3/3]](https://www.youtube.com/watch?v=YGnPgd0xeTE) <!--07/08/2015--> 
-
-VOD GTA V 
-[[1/2]](https://www.youtube.com/watch?v=KeMtaqnKT4g) <!--08/08/2015--> 
-[[2/2]](https://www.youtube.com/watch?v=tASN9lLXPek) <!--09/08/2015--> 
 
 VOD CS:GO 
 [[1/2]](https://www.youtube.com/watch?v=g7CN1F4U83w) <!--10/08/2015--> 
@@ -1269,13 +1284,11 @@ VOD Star Wars: Battlefront
 * **[NELSON MONFORT ET LA PLANÈTE DES SINGES (Rocket League)](https://www.youtube.com/watch?v=zt-WQALPFSE)** : 
 VOD Rocket League 
 [[1/3]](https://www.youtube.com/watch?v=4GMGVnDPeo0) <!--11/11/2015--> 
+[[2/3]](https://www.youtube.com/watch?v=8FUg8fHZ4Xw) <!--12/11/2015--> 
+[[3/3]](https://www.youtube.com/watch?v=8zbZUp79Skg) <!--13/11/2015--> 
 et 
 [[1/2]](https://www.youtube.com/watch?v=lSarrONJSec) <!--19/11/2015--> 
 [[2/2]](https://www.youtube.com/watch?v=fMOlsZB92eY) <!--20/11/2015--> 
-
-VOD Rocket League 
-[[2/3]](https://www.youtube.com/watch?v=8FUg8fHZ4Xw) <!--12/11/2015--> 
-[[3/3]](https://www.youtube.com/watch?v=8zbZUp79Skg) <!--13/11/2015--> 
 
 * **[LE DRAGON DE LA GRANDE TOUR (Savage Lands)](https://www.youtube.com/watch?v=JKU8ypvUxfM)** : 
 VOD Savage Lands 
@@ -1480,7 +1493,7 @@ VOD Rust
 [[4/7]](https://www.youtube.com/watch?v=tFVgAtmcwog) <!--06/03/2016--> 
 [[5/7]](https://www.youtube.com/watch?v=mgNhjNiuPDM) <!--06/03/2016--> 
 [[6/7]](https://www.youtube.com/watch?v=A6Z6fiqhtlc) <!--08/03/2016--> 
-[[7/7]](https://www.youtube.com/watch?v=A6Z6fiqhtlc) <!--09/03/2016--> 
+[[7/7]](https://www.youtube.com/watch?v=qaTfy1DIJoU) <!--09/03/2016--> 
 
 * **[LES RICHES VS LES PAUVRES (Warhammer Vermintide)](https://www.youtube.com/watch?v=3WEGmiwp5uQ)** : 
 VOD Warhammer 
@@ -1588,8 +1601,8 @@ VOD BattleBlock Theater
 [[1/5]](https://www.youtube.com/watch?v=MeWXcCx2L_Q) <!--09/05/2016--> 
 [[2/5]](https://www.youtube.com/watch?v=PeCc8El_TlE) <!--10/05/2016--> 
 [[3/5]](https://www.youtube.com/watch?v=WeSTEBRaR_M) <!--11/05/2016--> 
-[[4/5]](https://www.youtube.com/watch?v=ksISxK5C3oA) <!--12/05/2016--> 
-[[5/5]](https://www.youtube.com/watch?v=v0nTAfwUrwk) <!--13/05/2016--> 
+[[4/5]](https://www.youtube.com/watch?v=zzgXrB8kyKg) <!--12/05/2016--> 
+[[5/5]](https://www.youtube.com/watch?v=iijJyFHf_SM) <!--13/05/2016--> 
 
 VOD CS:GO 
 [[1/2]](https://www.youtube.com/watch?v=rmuRq0w-NG0) <!--14/05/2016--> 
@@ -1724,7 +1737,7 @@ VOD CS:GO COOP
 [[3/3]](https://www.youtube.com/watch?v=faEbTY4aHKQ) <!--23/07/2016--> 
 
 VOD Rocket League 
-[[1/1]](https://www.youtube.com/watch?v=yQksLlYM_wA) <!--24/07/2016--> 
+[[1/1]](https://www.youtube.com/watch?v=hkZVh_Pd9-o) <!--24/07/2016--> 
 
 * **[DIRECTION LA LUNE !!! (Scrap Mechanic)](https://www.youtube.com/watch?v=5vlW81SeeHE)** : 
 VOD Scrap Mechanic 
@@ -1745,7 +1758,7 @@ VOD Rocket League
 et 
 [[1/1]](https://www.youtube.com/watch?v=O29Q_RoCvEo) <!--04/09/2016--> 
 et 
-[[1/1]](https://www.youtube.com/watch?v=8FUg8fHZ4Xw) <!--16/09/2016--> 
+[[1/1]](https://www.youtube.com/watch?v=ogHAYkbcni0) <!--16/09/2016--> 
 
 VOD - Laink - INSIDE 
 [[1/8]](https://www.youtube.com/watch?v=hwbWKZqUcGk) <!--04/08/2016--> 
@@ -1971,6 +1984,7 @@ VOD - Terracid - The Walking Dead : Saison 3
 [[2/3]](https://www.youtube.com/watch?v=N0gLZtxzPOU) <!--26/12/2016--> 
 [[3/3]](https://www.youtube.com/watch?v=u5QHq5YG4ds) <!--01/04/2017--> 
 
+* **[ATTENTION TU PUES DE LA GUEULE (H1Z1)](https://www.youtube.com/watch?v=ISMadHe1eu4)** : 
 VOD H1Z1 
 [[1/7]](https://www.youtube.com/watch?v=nMcNd4w2Ux0) <!--19/12/2016--> 
 [[2/7]](https://www.youtube.com/watch?v=riTv8yQAaRg) <!--20/12/2016--> 
@@ -1999,7 +2013,7 @@ VOD H1Z1
 [[8/8]](https://www.youtube.com/watch?v=JhYRC4xcE4c) <!--07/01/2017--> 
 
 VOD - Terracid - H1Z1 Battle Royale - RAGE 
-[[1/1]](https://www.youtube.com/watch?v=w33p-cZHFts) <!--09/01/2017--> 
+[[1/1]](https://www.youtube.com/watch?v=Rn2zjVkfhiU) <!--09/01/2017--> 
 
 * **[DESSINER UNE GROSSE ZIQUETTE DANS LA NEIGE (Steep)](https://www.youtube.com/watch?v=IDAD_ENyAOo)** : 
 VOD Steep 
@@ -2415,7 +2429,7 @@ VOD Squad
 VOD Golf It 
 [[1/1]](https://www.youtube.com/watch?v=tX6ZhIUsypA) <!--18/12/2017--> 
 
-* **[DEUX KÉKÉS DANS DES TANKS TUNING (Crossout)](https://www.youtube.com/watch?v=JTd2xgSWSGo)** : 
+* **[DEUX KÉKÉS DANS DES TANKS TUNING (Crossout)](https://www.youtube.com/watch?v=pYu3NhQNke8)** : 
 VOD Crossout 
 [[1/1]](https://www.youtube.com/watch?v=JTd2xgSWSGo) <!--19/12/2017--> 
 
@@ -2467,6 +2481,7 @@ VOD The Very Organized Thief
 VOD A Way Out 
 [[1/1]](https://www.youtube.com/watch?v=LIpeS8j66Fs) <!--08/05/2018--> 
 
+* **[POUR COMBIEN TU VENDS TON SPERME ? (Day of Infamy)](https://www.youtube.com/watch?v=_ABDNHwzW8c)** : 
 VOD Day of Infamy 
 [[1/1]](https://www.youtube.com/watch?v=S44wkaUoDcI) <!--09/05/2018--> 
 
@@ -2550,6 +2565,7 @@ VOD Business Tour
 VOD Emily Wants To Play 
 [[1/1]](https://www.youtube.com/watch?v=9B7Ejka_6bY) <!--28/09/2018--> 
 
+* **[J'ACHÈTE LAS VEGAS POUR 100 EUROS (Business Tour)](https://www.youtube.com/watch?v=ijyMUGsIM3U)** : 
 VOD Business Tour 
 [[1/1]](https://www.youtube.com/watch?v=guYXaA-YhUM) <!--29/09/2018--> 
 
@@ -2605,6 +2621,7 @@ VOD Beware
 VOD Hot Lava 
 [[1/1]](https://www.youtube.com/watch?v=y32WmONLzOo) <!--13/10/2018--> 
 
+* **[C'EST NORMAL AU FAR WEST (Sky Noon)](https://www.youtube.com/watch?v=C-AmKUTHfcw)** : 
 VOD Skynoon 
 [[1/1]](https://www.youtube.com/watch?v=cYCJF1C5H7U) <!--14/10/2018--> 
 
@@ -2883,6 +2900,8 @@ VOD Warface
 * **[QUI FAIT LA TAILLE ET LE POIDS D'UNE TRUIE ? (Resident Evil 2)](https://www.youtube.com/watch?v=PfrG1prrRLU)** : 
 VOD Resident Evil 2 
 [[1/3]](https://www.youtube.com/watch?v=Yn3RGml3VPk) <!--05/03/2019--> 
+
+VOD Resident Evil 2 
 [[2/3]](https://www.youtube.com/watch?v=9mzdyNdveu0) <!--06/03/2019--> 
 [[3/3]](https://www.youtube.com/watch?v=QveALgqsAHA) <!--07/03/2019--> 
 
@@ -2902,6 +2921,7 @@ VOD The Division 2 BETA
 [[1/2]](https://www.youtube.com/watch?v=ZmqWB6HH6dI) <!--13/03/2019--> 
 [[2/2]](https://www.youtube.com/watch?v=3R07DWCOEYI) <!--15/03/2019--> 
 
+* **[FIN DE WANKIL, EXPLICATION](https://www.youtube.com/watch?v=EfgS9mxp-DQ)** : 
 VOD #CopyComic - Wankil Studio VS Cyprien et Squeezie 
 [[1/1]](https://www.youtube.com/watch?v=n6KtKwbmRPA) <!--26/03/2019--> 
 
@@ -3067,29 +3087,6 @@ VOD Visage (chapitre 2)
 VOD Minecraft 
 [[1/?]](https://www.youtube.com/watch?v=P5gRdzAAT-4) <!--03/08/2019--> 
 
-* **[AVANT IL Y AVAIT UNE JOLIE FORÊT, MAIS ÇA C’ÉTAIT AVANT (Minecraft)](https://www.youtube.com/watch?v=UyvO82jKZd8)** : 
-VOD Minecraft 
-[[2/?]](https://www.youtube.com/watch?v=FpFOAb3DLjY) <!--11/08/2019--> 
-
-* **[LES SECRETS ET COFFRES CACHÉS DU MONDE (Minecraft)](https://www.youtube.com/watch?v=KKieggA42CQ)** : 
-VOD Minecraft 
-[[3/?]](https://www.youtube.com/watch?v=6769VXU3BxM) <!--16/08/2019--> 
-
-* **[MAISON CLOSE AVEC LES VILLAGEOIS (Minecraft)](https://www.youtube.com/watch?v=UUpcNN3aF-I)** : 
-VOD Minecraft 
-[[4/?]](https://www.youtube.com/watch?v=A-1hT4Tb7vo) <!--30/08/2019--> 
-
-* **[LA HONTE DE MON ENFANCE... (Minecraft)](https://www.youtube.com/watch?v=rd0lwCZId48)** : 
-VOD Minecraft 
-[[5/?]](https://www.youtube.com/watch?v=VtcWVZpqzi4) <!--10/09/2019--> 
-
-VOD Minecraft 
-[[5,5/?]](https://www.youtube.com/watch?v=0TvdqTmGMF0) <!--20/09/2019--> 
-[[6/?]](https://www.youtube.com/watch?v=O5SuFM6ycLk) <!--17/09/2019--> 
-[[7/?]](https://www.youtube.com/watch?v=7Dm_oehuwlY) <!--24/09/2019--> 
-[[7,5/?]](https://www.youtube.com/watch?v=mf6ZvTMQU5U) <!--27/09/2019--> 
-[[8/?]](https://www.youtube.com/watch?v=AaT2hib3g7E) <!--01/10/2019--> 
-
 VOD - Laink - Until Dawn 
 [[1/1]](https://www.youtube.com/watch?v=PBTpOnsRzWA) <!--05/08/2019--> 
 
@@ -3103,11 +3100,19 @@ VOD Golf It
 VOD SCP022 
 [[1/1]](https://www.youtube.com/watch?v=qyKMgEC6Fb4) <!--10/08/2019--> 
 
+* **[AVANT IL Y AVAIT UNE JOLIE FORÊT, MAIS ÇA C’ÉTAIT AVANT (Minecraft)](https://www.youtube.com/watch?v=UyvO82jKZd8)** : 
+VOD Minecraft 
+[[2/?]](https://www.youtube.com/watch?v=FpFOAb3DLjY) <!--11/08/2019--> 
+
 VOD Woodwork Simulator 
 [[1/1]](https://www.youtube.com/watch?v=HlVHl85tZ10) <!--12/08/2019--> 
 
 VOD Secret Neighbor 
 [[1/1]](https://www.youtube.com/watch?v=0onYtXSZL1Y) <!--15/08/2019--> 
+
+* **[LES SECRETS ET COFFRES CACHÉS DU MONDE (Minecraft)](https://www.youtube.com/watch?v=KKieggA42CQ)** : 
+VOD Minecraft 
+[[3/?]](https://www.youtube.com/watch?v=6769VXU3BxM) <!--16/08/2019--> 
 
 VOD Wolfquest 
 [[1/1]](https://www.youtube.com/watch?v=KpFdP09G-Aw) <!--17/08/2019--> 
@@ -3115,21 +3120,100 @@ VOD Wolfquest
 VOD CS:GO 
 [[1/1]](https://www.youtube.com/watch?v=XrwXRHTdI8s) <!--20/08/2019--> 
 
+* **[ON A PERDU UN SPONSOR À CAUSE D'UNE BLAGUE (Silver Chains)](https://www.youtube.com/watch?v=6PR7258ZV6M)** : 
 VOD Silver Chains 
 [[1/1]](https://www.youtube.com/watch?v=ctqxSvCVMlQ) <!--23/08/2019--> 
 
+* **[LES ANECDOTES HORRIBLES SUR L'ENFANCE DE LAINK (Silver Chains)](https://www.youtube.com/watch?v=dyE9qizhM5U)** : 
+VOD Silver Chains 
+[[1/1]](https://www.youtube.com/watch?v=ctqxSvCVMlQ) <!--23/08/2019--> 
+
+* **[CE QU'IL SE PASSE RÉELLEMENT DERRIÈRE YOUTUBE (Dauntless)](https://www.youtube.com/watch?v=hIZv4IyTHWY)** : 
 VOD Dauntless 
 [[1/1]](https://www.youtube.com/watch?v=DM912gEATm0) <!--27/08/2019--> 
+
+* **[MAISON CLOSE AVEC LES VILLAGEOIS (Minecraft)](https://www.youtube.com/watch?v=UUpcNN3aF-I)** : 
+VOD Minecraft 
+[[4/?]](https://www.youtube.com/watch?v=A-1hT4Tb7vo) <!--30/08/2019--> 
 
 VOD World of Tanks Steel Hunter (BR) 
 [[1/1]](https://www.youtube.com/watch?v=5ct2AjmI-YU) <!--03/09/2019--> 
 
+* **[CE QU'IL SE PASSE DERRIÈRE LES SITES HOT (Telling Lies)](https://www.youtube.com/watch?v=qAehEYHZCtg)** : 
 VOD Telling Lies 
 [[1/1]](https://www.youtube.com/watch?v=ZSf7oUKbMwE) <!--06/09/2019--> 
+
+* **[LA HONTE DE MON ENFANCE... (Minecraft)](https://www.youtube.com/watch?v=rd0lwCZId48)** : 
+VOD Minecraft 
+[[5/?]](https://www.youtube.com/watch?v=VtcWVZpqzi4) <!--10/09/2019--> 
 
 VOD TerraCooking - Les nouilles chinoises sautées au boeuf 
 [[1/1]](https://www.youtube.com/watch?v=R0wb46JUtDI) <!--13/09/2019--> 
 
+* **[LES HISTOIRES COCHONNES CACHÉES DANS LA CABANE (Minecraft)](https://www.youtube.com/watch?v=xVZY0RGkZjE)** : 
+VOD Minecraft 
+[[6/?]](https://www.youtube.com/watch?v=O5SuFM6ycLk) <!--17/09/2019--> 
+
+* **[EXPÉDITION JUSQU'AU MANOIR SECRET (Minecraft)](https://www.youtube.com/watch?v=aFxhpQOiMh4)** : 
+VOD Minecraft 
+[[6/?]](https://www.youtube.com/watch?v=O5SuFM6ycLk) <!--17/09/2019--> 
+
+VOD Minecraft 
+[[5,5/?]](https://www.youtube.com/watch?v=0TvdqTmGMF0) <!--20/09/2019--> 
+
+* **[IL NE RESTERA QU'UN SEUL VAINQUEUR... (Minecraft)](https://www.youtube.com/watch?v=WE_4Fn46PFs)** : 
+VOD Minecraft 
+[[7/?]](https://www.youtube.com/watch?v=7Dm_oehuwlY) <!--24/09/2019--> 
+
+VOD Minecraft 
+[[7,5/?]](https://www.youtube.com/watch?v=mf6ZvTMQU5U) <!--27/09/2019--> 
+[[8/?]](https://www.youtube.com/watch?v=AaT2hib3g7E) <!--01/10/2019--> 
+
+* **[ON CRAME CE FOUTU MANOIR !!! (Minecraft)](https://www.youtube.com/watch?v=rlj2DJbO8K8)** : 
+VOD Minecraft 
+[[9/?]](https://www.youtube.com/watch?v=MEQTL2LHRZk) <!--17/10/2019--> 
+
 VOD Apex / Trailer Saison 3 
 [[1/1]](https://www.youtube.com/watch?v=ZUGUtwG4ou4) <!--28/09/2019--> 
 
+VOD Apex Legends Saison 3 #ad 
+[[1/1]](https://www.youtube.com/watch?v=ME8-AHH8Cl0) <!--03/10/2019--> 
+
+VOD Minecraft (Mineral Contest chez Squeezie) 
+[[1/1]](https://www.youtube.com/watch?v=1mW9c5PCllo) <!--04/10/2019--> 
+
+VOD - Laink - Little Misfortune 
+[[1/1]](https://www.youtube.com/watch?v=sQiBvFPtk_E) <!--08/10/2019--> 
+
+VOD - Terracid ft. Potatoz et Superconeri - Minecraft Fallen Kingdoms 
+[[1/1]](https://www.youtube.com/watch?v=BZR8_dHJzhA) <!--11/10/2019--> 
+
+VOD Untitled Goose Game 
+[[1/1]](https://www.youtube.com/watch?v=xj53cckwhWY) <!--15/10/2019--> 
+
+* **[JE FAIS LIVRER MON KEBAB PAR DRONE (Ghost Recon Breakpoint)](https://www.youtube.com/watch?v=gdKuM71gZRc)** : 
+VOD Ghost Recon Breakpoint 
+[[1/1]](https://www.youtube.com/watch?v=cRpS7yFNq-Y) <!--19/10/2019--> 
+
+VOD Man of Medan 
+[[1/1]](https://www.youtube.com/watch?v=QWILfEwsoBE) <!--22/10/2019--> 
+
+* **[UN BON GROS POULET GÉANT AVEC DU JUS (Dauntless)](https://www.youtube.com/watch?v=nsY5QCqVLRY)** : 
+VOD Dauntless 
+[[1/1]](https://www.youtube.com/watch?v=y7TWXHKrgjA) <!--25/10/2019--> 
+
+* **[J'AI VOLÉ LA PLACE D'UN ACTEUR HOLLYWOODIEN (Borderlands 3)](https://www.youtube.com/watch?v=uIO8PTyai30)** : 
+VOD Borderlands 3 
+[[1/1]](https://www.youtube.com/watch?v=fLqafHsey9k) <!--29/10/2019--> 
+
+VOD - Terracid - Alt-Frequencies + Vectronom 
+[[1/1]](https://www.youtube.com/watch?v=_0eQY3yYn3g) <!--01/11/2019--> 
+
+VOD Hunt: Showdown 
+[[1/1]](https://www.youtube.com/watch?v=rXHcdahQ0Rs) <!--05/11/2019--> 
+
+VOD Sea of Thieves 
+[[1/1]](https://www.youtube.com/watch?v=FO7y-z1ZR6M) <!--07/11/2019--> 
+
+VOD Call of Duty: Modern Warfare 
+[[1/1]](https://www.youtube.com/watch?v=TgDz6NeEtY8) <!--09/11/2019--> 

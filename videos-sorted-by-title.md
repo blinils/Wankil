@@ -1,4 +1,4 @@
-Update: 20191001
+Update: 20191111
 
 * 110km/h de puissance DANS TA GUEULE ! (DayZ)
 * 1 + 1 = JE SAIS PAS (The Escape)
@@ -35,6 +35,8 @@ Update: 20191001
 * BASTON GÉNÉRALE AVEC LES GARDIENS (Escapists 2)
 * BATAILLE D'ABRUTIS (Totally Accurate Battle Simulator)
 * BATTLE EPIC DE CUISINE CONTRE MAMYTWINK
+* Battlefield 3 : Banana and Stuff
+* Battlefield Skyrim - Then, I took a bullet in the knee
 * BERNARD, VISE LE CROUPION ! (The Hunter)
 * BEST. SOIRÉE. EVER. (DayZ)
 * BIEN DIT RICHARD ! (Animation)
@@ -53,6 +55,7 @@ Update: 20191001
 * CELUI QUI PERD DONNE SON COMPTE TWITTER (Hitman 2)
 * CELUI QUI PERD SUCE L'AUTRE (SportsBar VR)
 * Ce n'est que charme et sorcellerie monseigneur ! (Chivalry: Medieval Warfare)
+* CE QU'IL SE PASSE DERRIÈRE LES SITES HOT (Telling Lies)
 * CE QU'IL SE PASSE RÉELLEMENT DERRIÈRE YOUTUBE (Dauntless)
 * CE QU'IL Y A VRAIMENT DANS VOS PIZZAS (Roblox)
 * CE SITE C'EST L'ARNAQUE DU SIÈCLE (Toreba)
@@ -153,6 +156,7 @@ Update: 20191001
 * ET UNE GOUTTE DE VANTARDISE ! (Trackmania Turbo)
 * ÉVITEZ DE CONDUIRE SANS PERMIS (The Crew 2) ft. Jiraya
 * EXCLUSIF : BIGFOOT EST VEGAN (Finding Bigfoot)
+* EXPÉDITION JUSQU'AU MANOIR SECRET (Minecraft)
 * EXPÉRIENCE SOCIALE TOURNE MAL (H1Z1)
 * EXPLORATION DE TCHERNOBYL DANS LA ZONE RADIOACTIVE
 * EXPLORATION D'UN BUNKER SOUTERRAIN ABANDONNÉ
@@ -186,6 +190,7 @@ Update: 20191001
 * IL ME MONTRE SON GROS DECK (Hand of the Gods)
 * IL N'AURAIT JAMAIS DÛ INSULTER LA FRANCE (CS:GO)
 * IL N'EN RESTERA QU'UN (PUBG)
+* IL NE RESTERA QU'UN SEUL VAINQUEUR... (Minecraft)
 * IL PENSE QUE LA CHAÎNE VA ÊTRE SUPPRIMÉE
 * IL POSTE SA PHOTO INTIME SUR INTERNET (CS:GO)
 * ILS SONT SOUS LA MAISON !!! (7 Days To Die) #EP4
@@ -209,9 +214,11 @@ Update: 20191001
 * J'AI PO 8 ANS ! (Prop Hunt)
 * J'AI RETROUVÉ SES PIRES PHOTOS !
 * J'AI TRÉBUCHÉ DANS L'ESPACE-TEMPS (Star Citizen)
+* J'AI VOLÉ LA PLACE D'UN ACTEUR HOLLYWOODIEN (Borderlands 3)
 * JAMAIS PRENDRE SA DOUCHE EN PRISON (The Escapists 2)
 * J'APPELLE MA MÈRE POUR GAGNER LE MILLION (Qui veut gagner des millions)
 * J'APPRENDRE LA SURVIE ET LA CONJUGAISON (H1Z1)
+* JE FAIS LIVRER MON KEBAB PAR DRONE (Ghost Recon Breakpoint)
 * JE ME BARRE ! JE ME SUIS BARRÉ ! (DayZ)
 * JE PIRATE L'ORDI DE LA VOISINE (Welcome to the Game 2)
 * JE RACHÈTE LA JOCONDE POUR 5 DOLLARS (Thief Simulator)
@@ -360,6 +367,7 @@ Update: 20191001
 * Le retour du pilote solitaire (The Crew)
 * LE RETOUR DU RP AVEC JAKOV ET RICHUS (DayZ RP) #1
 * LE RP C'EST DIFFICILE (Animation Officielle)
+* LES ANECDOTES HORRIBLES SUR L'ENFANCE DE LAINK (Silver Chains)
 * LES APOCALYPSES ZOMBIES C'EST RIGOLO (Dying Light)
 * LES AUTOCOLLANTS DU GROS GABE (CS:GO)
 * LES BÊTISES À LA MONTAGNE
@@ -388,6 +396,7 @@ Update: 20191001
 * LES ÉMO VEULENT DÉTRUIRE L'UNIVERS (Destiny)
 * Les énigmes très compliquées (Half-Life 2 en COOP)
 * Les hélicozgegs (Mount Your Friends)
+* LES HISTOIRES COCHONNES CACHÉES DANS LA CABANE (Minecraft)
 * LES JEUX DE SOCIÉTÉ POUR ENFANTS (Tabletop Simulator)
 * LES MEILLEURES PUNITIONS (Layers of Fear)
 * Les modules compliqués (Keep Talking and Nobody Explodes + Oculus Rift)
@@ -508,6 +517,7 @@ Update: 20191001
 * ON A FAIT LE TOP 1 !!! (H1Z1)
 * ON A FAIT UNE GROSSE BÊTISE (Arma 3 RP)
 * ON A PERDU DIMITRI (Animation)
+* ON A PERDU UN SPONSOR À CAUSE D'UNE BLAGUE (Silver Chains)
 * ON A PRIS LE MELON (CS:GO)
 * On a rencontré Apu des Simpson (DayZ)
 * ON AURAIT JAMAIS DÛ FAIRE DES PARIS... (CS:GO)
@@ -516,6 +526,7 @@ Update: 20191001
 * ON CONSTRUIT DES FORTS TOUT POURRIS (Fortnite)
 * On contrôle la voiture à deux ! (Trackmania Turbo) exclu Gamescom
 * ON CONTRÔLE TOUS LES DEUX LE MÊME JOUEUR (CS:GO)
+* ON CRAME CE FOUTU MANOIR !!! (Minecraft)
 * On détruit les belles cinématiques (Diablo 3)
 * On engraine ! (Cubeworld)
 * ON EST PERDUS À BOUTROUX (GeoGuessr)
@@ -573,6 +584,7 @@ Update: 20191001
 * Plus de fête ! Pour tout le monde ! (Dying Light)
 * PONT DE MERDE (Poly Bridge)
 * POUET POUET (GTA V)
+* POUR COMBIEN TU VENDS TON SPERME ? (Day of Infamy)
 * POURQUOI LE GOLF DÉTRUIT DES AMITIÉS (Golf It) ft. Hugo
 * POURSUIVIS PAR DES SQUELETTES (Stairs)
 * PROBLEMES GASTRIQUES (DayZ) ft. Guzz
@@ -591,6 +603,12 @@ Update: 20191001
 * QUI PEUT PASSER UNE NUIT DANS CETTE MAISON ? (Conjuring House)
 * QUI VA GAGNER LA FINALE FRANCE - CROATIE (Fifa 18)
 * QUI VEUT GAGNER DES BITCOINS ?
+* Reporter Of Css Episode 1
+* Reporter Of Css Episode 2
+* Reporter Of Css Episode 3
+* Reporter of Css Episode 4 - part. 1
+* Reporter of Css Episode 4 - part. 2
+* Reporter Of Css Episode 5
 * RETOUR VERS LE FUTUR (GTA IV) ft. Guzz et Porto
 * Reviens Gamin ! (DayZ Origins)
 * ROBERT LA MOUCHE (Slap The Fly)
@@ -602,6 +620,7 @@ Update: 20191001
 * SERPENTARD !!! (Rocket League)
 * SE TOUCHER LA ZIQUETTE DANS L'ESPACE (Star Citizen)
 * SEULS CONTRE 100 ABONNÉS ZOMBIES (PUBG)
+* Shahana
 * SIMULATION DU RAID DE LA ZONE 51 (Ultimate Epic Battle Simulator)
 * SI ON ÉTAIT EN COUPLE (Need For Drink)
 * SI TU RIGOLES, TU MEURS.
@@ -609,6 +628,7 @@ Update: 20191001
 * SOLDATS EN FORMATION ZIQUETTE !!! (Total War)
 * Soupe au Pistou avec des morceaux de jeux dedans
 * SPARTIATES VS TORTUES (Ultimate Epic Battle Simulator)
+* SQUEEZIE ET LUCIOLE vs WANKIL (Wanklash #4) Daybreak
 * STAILLE HIRE !!! (DayZ)
 * STANNAH C'EST PLUS FORT QUE TOI !!! (Happy Wheels 3D)
 * STOP, NE BOUGEZ PLUS !!! (Get Even)
@@ -624,6 +644,7 @@ Update: 20191001
 * TOC TOC TOC ?! (RUST)
 * TOUCHEZ, CHRISTINA, ALLEZ-Y ! (GTA V)
 * Toujours aussi chanceux ! (Case Opening CS:GO)
+* Trailer - Reporter of Css : Episode 5
 * TREUILLE-MOI JACK !!! (Spintires MudRunner)
 * Trikz Concept
 * TROIS BOUFFONS A LA GUERRE (BATTLEFIELD 1) ft. Hugo
@@ -640,6 +661,7 @@ Update: 20191001
 * TUTO: QUE FAIRE QUAND MON AMIE EST BOURRÉE (Drunk friend)
 * TU VAS BOUFFER MES LÉGUMES !!! (Shotgun Farmers)
 * UN AUTOGRAPHE SEIGNEUR VADOR ? (Star Wars Battlefront)
+* UN BON GROS POULET GÉANT AVEC DU JUS (Dauntless)
 * UNBOXING DES PIRES COLIS À OFFRIR
 * UNE FÊTE ÉTUDIANTE TOURNE MAL EXPLICATIONS (Friday the 13th)
 * UNE NUIT D'HORREUR (Animation)

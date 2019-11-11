@@ -1,4 +1,28 @@
-Update: 20191001
+Update: 20191111
+
+* **ON CRAME CE FOUTU MANOIR !!! (Minecraft)**
+
+* **CE QU'IL SE PASSE DERRIÈRE LES SITES HOT (Telling Lies)**
+
+* **EXPÉDITION JUSQU'AU MANOIR SECRET (Minecraft)**
+
+* **LES ANECDOTES HORRIBLES SUR L'ENFANCE DE LAINK (Silver Chains)**
+
+* **SQUEEZIE ET LUCIOLE vs WANKIL (Wanklash #4) Daybreak**
+
+* **IL NE RESTERA QU'UN SEUL VAINQUEUR... (Minecraft)**
+
+* **POUR COMBIEN TU VENDS TON SPERME ? (Day of Infamy)**
+
+* **LES HISTOIRES COCHONNES CACHÉES DANS LA CABANE (Minecraft)**
+
+* **ON A PERDU UN SPONSOR À CAUSE D'UNE BLAGUE (Silver Chains)**
+
+* **UN BON GROS POULET GÉANT AVEC DU JUS (Dauntless)**
+
+* **J'AI VOLÉ LA PLACE D'UN ACTEUR HOLLYWOODIEN (Borderlands 3)**
+
+* **JE FAIS LIVRER MON KEBAB PAR DRONE (Ghost Recon Breakpoint)**
 
 * **QUI FAIT LA TAILLE ET LE POIDS D'UNE TRUIE ? (Resident Evil 2)**
 
@@ -2887,6 +2911,10 @@ Update: 20191001
 * **[M'sieur Frodon (Minecraft)](https://www.youtube.com/watch?v=2XTWQkCvXMU)**
 	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 
+* **Battlefield Skyrim - Then, I took a bullet in the knee**
+
+* **Reporter Of Css Episode 5**
+
 * **[Hamid la victime (Battlefield 3 en COOP)](https://www.youtube.com/watch?v=oyQWymQzLLk)**
 	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 	* _Le Beau Danube bleu_ par [Johann Strauss II](https://en.wikipedia.org/wiki/Johann_Strauss_II)
@@ -2897,6 +2925,8 @@ Update: 20191001
 
 * **[Laink et Terracid #1 // Battlefield BC2](https://www.youtube.com/watch?v=aMbIwDpxUT4)**
 	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+
+* **Battlefield 3 : Banana and Stuff**
 
 * **[MinecraFUUU #2](https://www.youtube.com/watch?v=mttDZIGxADs)**
 	* _Wouldn't It Be Nice_ par [The Beach Boys](https://en.wikipedia.org/wiki/The_Beach_Boys)
@@ -2916,6 +2946,14 @@ Update: 20191001
 	* _Wouldn't It Be Nice_ par [The Beach Boys](https://en.wikipedia.org/wiki/The_Beach_Boys)
 	* _The Pink Panther Theme_ par [Henry Mancini](https://fr.wikipedia.org/wiki/Henry_Mancini)
 
+* **Shahana**
+
+* **Reporter of Css Episode 4 - part. 2**
+
+* **Reporter of Css Episode 4 - part. 1**
+
+* **Trailer - Reporter of Css : Episode 5**
+
 * **[Trikz Concept](https://www.youtube.com/watch?v=ajvOCaQ1sh8)**
 	* _Money for Nothing_ par [MCYS](https://web.archive.org/web/20100202032219/http://www.cysworld.fr)
 	* _Invaders Must Die_ par [The Prodigy](http://www.theprodigy.com/music/)
@@ -2923,6 +2961,12 @@ Update: 20191001
 	* _Birthright (Birthwrong Remix by Blue Stahli)_ par [Celldweller](https://soundcloud.com/celldweller)
 	* _New Jack_ par [Justice](https://fr.wikipedia.org/wiki/Justice_(groupe))
 	* _11h30_ par [Danger](https://fr.wikipedia.org/wiki/Danger_(artiste))
+
+* **Reporter Of Css Episode 3**
+
+* **Reporter Of Css Episode 2**
+
+* **Reporter Of Css Episode 1**
 
 * **[Je suis un props](https://www.youtube.com/watch?v=R8Fy46mtfgA)**
 	* _Beavis II_ par [mAf 464](https://soundcloud.com/maf464) - licence [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/)
