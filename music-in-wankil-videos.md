@@ -1,4 +1,18 @@
-Update: 20191111
+Update: 20191205
+
+* **EN ROUTE VERS LE DRAGON DE L'ENDER (Minecraft) ft. SEB**
+
+* **BIGARD PASSE NOTRE TEST DE PURETÉ**
+
+* **OÙ TROUVER DE L'OR FACILEMENT (Gold Rush)**
+
+* **TUTO CONSTRUIRE UNE CABANE À OIZOS MOCHE (Woodwork Simulator)**
+
+* **MON ESCARGOT A SNIFFÉ DE LA POUDRE (ReadySet Heroes)**
+
+* **ON SE FAIT PASSER POUR LEURS POTES (SCUM)**
+
+* **ON DÉCOUVRE POUR QUI ON DOIT VOTER (Quiz PolitiScales)**
 
 * **ON CRAME CE FOUTU MANOIR !!! (Minecraft)**
 

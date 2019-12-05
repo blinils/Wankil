@@ -1,4 +1,4 @@
-Update: 20191111
+Update: 20191205
 
 * 110km/h de puissance DANS TA GUEULE ! (DayZ)
 * 1 + 1 = JE SAIS PAS (The Escape)
@@ -40,6 +40,7 @@ Update: 20191111
 * BERNARD, VISE LE CROUPION ! (The Hunter)
 * BEST. SOIRÉE. EVER. (DayZ)
 * BIEN DIT RICHARD ! (Animation)
+* BIGARD PASSE NOTRE TEST DE PURETÉ
 * BILLY LE BONHOMME DE NEIGE (Murder) ft. Guzz
 * BOGEEEEEEY (Golf With Your Friends)
 * BRAQUAGE DE LA BANQUE (Arma 3 RP) ft. Bibix et MR
@@ -85,6 +86,7 @@ Update: 20191111
 * CETTE VIDÉO NE DEVAIT PAS SORTIR
 * CHAMPAGNE ET MINI BURGERS (Fond vert)
 * Chanson - C'est quoi Guzzproductions
+* CHASSE AU POULET GÉANT (Dauntless)
 * Chasser un ours grâce à son caca (The Hunter)
 * CHAUFFEUR DE BUS DANS LA BANLIEUE (Bus Simulator)
 * CHAUSSURE !!! (Half Dead)
@@ -142,6 +144,7 @@ Update: 20191111
 * EH TU VEUX M'EMBRAFFER ? (Gmod Deathrun) ft. Guzz et Gydias
 * ELLE N'A PAS SUPPORTÉ LE DIVORCE (Home Sweet Home)
 * ELLE VA SE CALMER LA BLONDASSE (Le Seigneur des Anneaux)
+* EN ROUTE VERS LE DRAGON DE L'ENDER (Minecraft) ft. SEB
 * ENVIE DE PIPI + BOUTEILLE VIDE = OUI C'EST POSSIBLE (Witch Hunt)
 * ENVOLE-TOI MON GROS COCHON (Unruly Heroes)
 * ÉPLUCHE MA CAROTTE (Plants vs. Zombies)
@@ -486,6 +489,7 @@ Update: 20191111
 * MinecraFUUU #2
 * MinecraFUUU #3
 * MISSION CACA EN HAUT DU BARRAGE (SCUM)
+* MON ESCARGOT A SNIFFÉ DE LA POUDRE (ReadySet Heroes)
 * MONSIEUR JOUBERT VEUT SE JETER DE L'IMMEUBLE (Stayin Alive)
 * MOST EPIC STUNT EVER JUST CAUSE 3 !!!!
 * M'sieur Frodon (Minecraft)
@@ -527,6 +531,7 @@ Update: 20191111
 * On contrôle la voiture à deux ! (Trackmania Turbo) exclu Gamescom
 * ON CONTRÔLE TOUS LES DEUX LE MÊME JOUEUR (CS:GO)
 * ON CRAME CE FOUTU MANOIR !!! (Minecraft)
+* ON DÉCOUVRE POUR QUI ON DOIT VOTER (Quiz PolitiScales)
 * On détruit les belles cinématiques (Diablo 3)
 * On engraine ! (Cubeworld)
 * ON EST PERDUS À BOUTROUX (GeoGuessr)
@@ -551,6 +556,7 @@ Update: 20191111
 * ON S'AMUSE AVEC LE CORPS DE TRUMP (Surgeon Simulator)
 * ON S'ÉCHAPPE DE PRISON (A Way Out)
 * ON S’ÉCHAPPE D'UN MANOIR HANTÉ
+* ON SE FAIT PASSER POUR LEURS POTES (SCUM)
 * ON SE FAIT POURSUIVRE PAR LES FORAINS (Beware)
 * ON S'ENVOIE EN L'AIR ENTRE COPAINS (Metal Gear Solid 5) ft. Guzz, Amixem et Superkonar
 * ON VA AU FKC MEC (APB: Reloaded) ft. Guzz et Porto
@@ -565,6 +571,7 @@ Update: 20191111
 * OUI MA BELLE REGARDE L'OBJECTIF (Visage)
 * OUPS J'AI FABRIQUÉ UNE BOMBE ATOMIQUE (Fallout 76)
 * OUPS J'AI TIRÉ SUR LA VIEILLE FOLLE (Loco Parentis)
+* OÙ TROUVER DE L'OR FACILEMENT (Gold Rush)
 * OUVREZ LES ÉCOUTILLES DE BALLES ! (CS:GO)
 * PANIQUE EN CUISINE (Overcooked)
 * PAPI NOUS PARLE DES ALLEMANDS (World Of Tanks) ft. Hugo
@@ -658,10 +665,10 @@ Update: 20191111
 * TU FUIS ESPÈCE DE LÂCHE !!! (Conqueror's Blade)
 * TU PERDS = TU POULET FERMIER (Realm Royale) ft. Hugo
 * TU PRÉFÈRES TE COUPER UN BRAS OU UNE JAMBE ? (The Division 2)
+* TUTO CONSTRUIRE UNE CABANE À OIZOS MOCHE (Woodwork Simulator)
 * TUTO: QUE FAIRE QUAND MON AMIE EST BOURRÉE (Drunk friend)
 * TU VAS BOUFFER MES LÉGUMES !!! (Shotgun Farmers)
 * UN AUTOGRAPHE SEIGNEUR VADOR ? (Star Wars Battlefront)
-* UN BON GROS POULET GÉANT AVEC DU JUS (Dauntless)
 * UNBOXING DES PIRES COLIS À OFFRIR
 * UNE FÊTE ÉTUDIANTE TOURNE MAL EXPLICATIONS (Friday the 13th)
 * UNE NUIT D'HORREUR (Animation)
@@ -689,3 +696,4 @@ Update: 20191111
 * Y A PAS D'CALCAIRE ! (Hurtworld)
 * YO MISTER WHITE ! OH BITCH... (No More Room In Hell) ft. Guzz et Porto
 * You like blood transfusion ? (DayZ)
+

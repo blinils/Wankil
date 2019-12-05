@@ -1,4 +1,4 @@
-Update: 20191111
+Update: 20191205
 
 * **[Avec supplément jeux d'action svp (Kebab Mayo)](https://www.youtube.com/watch?v=fUB8N6QS-1c)** : 
 VOD Battlefield 4 
@@ -2702,6 +2702,7 @@ VOD Arma 3 RP
 VOD Blackout 
 [[1/1]](https://www.youtube.com/watch?v=V3olMp5WuZs) <!--04/11/2018--> 
 
+* **[ON SE FAIT PASSER POUR LEURS POTES (SCUM)](https://www.youtube.com/watch?v=crEYih6XS40)** : 
 VOD SCUM 
 [[1/1]](https://www.youtube.com/watch?v=FBO0SX7YXyU) <!--05/11/2018--> 
 
@@ -3104,6 +3105,7 @@ VOD SCP022
 VOD Minecraft 
 [[2/?]](https://www.youtube.com/watch?v=FpFOAb3DLjY) <!--11/08/2019--> 
 
+* **[TUTO CONSTRUIRE UNE CABANE À OIZOS MOCHE (Woodwork Simulator)](https://www.youtube.com/watch?v=LqHkFfc9QD4)** : 
 VOD Woodwork Simulator 
 [[1/1]](https://www.youtube.com/watch?v=HlVHl85tZ10) <!--12/08/2019--> 
 
@@ -3167,6 +3169,9 @@ VOD Minecraft
 
 VOD Minecraft 
 [[7,5/?]](https://www.youtube.com/watch?v=mf6ZvTMQU5U) <!--27/09/2019--> 
+
+* **[EN ROUTE VERS LE DRAGON DE L'ENDER (Minecraft) ft. SEB](https://www.youtube.com/watch?v=YdV8PnM0mUg)** : 
+VOD Minecraft 
 [[8/?]](https://www.youtube.com/watch?v=AaT2hib3g7E) <!--01/10/2019--> 
 
 * **[ON CRAME CE FOUTU MANOIR !!! (Minecraft)](https://www.youtube.com/watch?v=rlj2DJbO8K8)** : 
@@ -3217,3 +3222,29 @@ VOD Sea of Thieves
 
 VOD Call of Duty: Modern Warfare 
 [[1/1]](https://www.youtube.com/watch?v=TgDz6NeEtY8) <!--09/11/2019--> 
+
+VOD Hell Let Loose 
+[[1/1]](https://www.youtube.com/watch?v=l3jO-bTNB6M) <!--12/11/2019--> 
+
+VOD CS:GO 
+[[1/1]](https://www.youtube.com/watch?v=tbmpeF0Pvxc) <!--15/11/2019--> 
+
+VOD Pummel Party 
+[[1/1]](https://www.youtube.com/watch?v=Cdc6IK5S2rU) <!--19/11/2019--> 
+
+VOD Heave Ho 
+[[1/1]](https://www.youtube.com/watch?v=yJCEql8n9NQ) <!--22/11/2019--> 
+
+VOD Skribbl 
+[[1/1]](https://www.youtube.com/watch?v=UIvtAfC7wxM) <!--23/11/2019--> 
+
+VOD Chernobylite 
+[[1/1]](https://www.youtube.com/watch?v=iZBtq8QahrU) <!--25/11/2019--> 
+
+VOD Flowscape 
+[[1/1]](https://www.youtube.com/watch?v=jZ9DprL5NSk) <!--30/11/2019--> 
+
+* **[MON ESCARGOT A SNIFFÉ DE LA POUDRE (ReadySet Heroes)](https://www.youtube.com/watch?v=5l4zSBcP9ZY)** : 
+VOD Ready Set Heroes 
+[[1/1]](https://www.youtube.com/watch?v=UV2DXIy9Uns) <!--03/12/2019--> 
+
