@@ -1,4 +1,4 @@
-Update: 20191205
+Update: 20191216
 
 * **[Avec supplément jeux d'action svp (Kebab Mayo)](https://www.youtube.com/watch?v=fUB8N6QS-1c)** : 
 VOD Battlefield 4 
@@ -53,6 +53,7 @@ VOD DayZ
 
 * **[L'homme-vélo (DayZ)](https://www.youtube.com/watch?v=1Ef4E5BZ0M0)** : 
 VOD DayZ 
+[[2/5]](https://www.youtube.com/watch?v=i5nOGYreBQE) <!--29/10/2013--> 
 [[3/5]](https://www.youtube.com/watch?v=NP-vEJixgbY) <!--30/10/2013--> 
 [[4/5]](https://www.youtube.com/watch?v=b_wl3GudmTU) <!--31/10/2013--> 
 [[5/5]](https://www.youtube.com/watch?v=4k3yaFLX4Dw) <!--01/11/2013--> 
@@ -3082,6 +3083,9 @@ VOD Subsistence
 
 VOD Visage (chapitre 2) 
 [[1/2]](https://www.youtube.com/watch?v=u8LHkzhfA34) <!--24/07/2019--> 
+
+* **[PEUT-ON FAIRE CUIRE UN OEUF SUR SON PC ?](https://www.youtube.com/watch?v=nI_OG3wMfrk)** : 
+VOD Visage (chapitre 2) 
 [[2/2]](https://www.youtube.com/watch?v=1P6YU4bqUv4) <!--01/08/2019--> 
 
 * **[LA GRANDE AVENTURE COMMENCE (Minecraft)](https://www.youtube.com/watch?v=YsGn03_qSRE)** : 
@@ -3178,6 +3182,10 @@ VOD Minecraft
 VOD Minecraft 
 [[9/?]](https://www.youtube.com/watch?v=MEQTL2LHRZk) <!--17/10/2019--> 
 
+* **[JE L'AI TUÉ SANS FAIRE EXPRÈS... ENFIN PAS TOTALEMENT (Minecraft)](https://www.youtube.com/watch?v=ZDrxsgz9sNA)** : 
+VOD Minecraft 
+[[9/?]](https://www.youtube.com/watch?v=MEQTL2LHRZk) <!--17/10/2019--> 
+
 VOD Apex / Trailer Saison 3 
 [[1/1]](https://www.youtube.com/watch?v=ZUGUtwG4ou4) <!--28/09/2019--> 
 
@@ -3233,11 +3241,13 @@ VOD Pummel Party
 [[1/1]](https://www.youtube.com/watch?v=Cdc6IK5S2rU) <!--19/11/2019--> 
 
 VOD Heave Ho 
-[[1/1]](https://www.youtube.com/watch?v=yJCEql8n9NQ) <!--22/11/2019--> 
+[[1/2]](https://www.youtube.com/watch?v=yJCEql8n9NQ) <!--22/11/2019--> 
+[[2/2]](https://www.youtube.com/watch?v=AgqC8gmt_xc) <!--16/12/2019--> 
 
 VOD Skribbl 
 [[1/1]](https://www.youtube.com/watch?v=UIvtAfC7wxM) <!--23/11/2019--> 
 
+* **[TOUT PLAQUER ET REFAIRE SA VIE À TCHERNOBYL (Chernobylite)](https://www.youtube.com/watch?v=M_S34BCdK_0)** : 
 VOD Chernobylite 
 [[1/1]](https://www.youtube.com/watch?v=iZBtq8QahrU) <!--25/11/2019--> 
 
@@ -3247,4 +3257,14 @@ VOD Flowscape
 * **[MON ESCARGOT A SNIFFÉ DE LA POUDRE (ReadySet Heroes)](https://www.youtube.com/watch?v=5l4zSBcP9ZY)** : 
 VOD Ready Set Heroes 
 [[1/1]](https://www.youtube.com/watch?v=UV2DXIy9Uns) <!--03/12/2019--> 
+
+* **[SQUEEZIE ET LUCIOLE vs WANKIL (Wanklash #4) Daybreak](https://www.youtube.com/watch?v=VDUAcBBu1hA)** : 
+VOD Sweats du gage Wanklash #4 
+[[1/1]](https://www.youtube.com/watch?v=jZ9DprL5NSk) <!--06/12/2019--> 
+
+VOD Tierlist de bouffe 
+[[1/1]](https://www.youtube.com/watch?v=ULos9PUWgFo) <!--09/12/2019--> 
+
+VOD CS:GO 
+[[1/1]](https://www.youtube.com/watch?v=MGDryY4WTs8) <!--12/12/2019--> 
 

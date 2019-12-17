@@ -1,4 +1,4 @@
-Update: 20191205
+Update: 20191216
 
 * 110km/h de puissance DANS TA GUEULE ! (DayZ)
 * 1 + 1 = JE SAIS PAS (The Escape)
@@ -222,6 +222,8 @@ Update: 20191205
 * J'APPELLE MA MÈRE POUR GAGNER LE MILLION (Qui veut gagner des millions)
 * J'APPRENDRE LA SURVIE ET LA CONJUGAISON (H1Z1)
 * JE FAIS LIVRER MON KEBAB PAR DRONE (Ghost Recon Breakpoint)
+* JE L'AI TUÉ SANS FAIRE EXPRÈS... ENFIN PAS TOTALEMENT (Minecraft)
+* JE LUI DÉCLARE MON AMOUR (Kingdom Under Fire)
 * JE ME BARRE ! JE ME SUIS BARRÉ ! (DayZ)
 * JE PIRATE L'ORDI DE LA VOISINE (Welcome to the Game 2)
 * JE RACHÈTE LA JOCONDE POUR 5 DOLLARS (Thief Simulator)
@@ -651,6 +653,7 @@ Update: 20191205
 * TOC TOC TOC ?! (RUST)
 * TOUCHEZ, CHRISTINA, ALLEZ-Y ! (GTA V)
 * Toujours aussi chanceux ! (Case Opening CS:GO)
+* TOUT PLAQUER ET REFAIRE SA VIE À TCHERNOBYL (Chernobylite)
 * Trailer - Reporter of Css : Episode 5
 * TREUILLE-MOI JACK !!! (Spintires MudRunner)
 * Trikz Concept
