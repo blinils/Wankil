@@ -1,4 +1,10 @@
-Update: 20191216
+Update: 20191228
+
+* **MCDO, BURGER KING OU KFC ? (Tier List)**
+
+* **ON RISQUE NOS VIES POUR ALLER AU CHÂTEAU (Minecraft) ft. SEB**
+
+* **POURQUOI JE PEUX PLUS MANGER DE PIZZA (Cuisine Royale)**
 
 * **JE LUI DÉCLARE MON AMOUR (Kingdom Under Fire)**
 
@@ -665,7 +671,7 @@ Update: 20191216
 	* _Musique inconnue à 04:16_
 	* _Musique inconnue à 04:56_
 	* _Life is Beautiful (Deadly Premonition OST)_ par Riyou Kinugasa, Takuya Kobayashi et Hiromi Mizutani
-	* _Musique inconnue à 05:32_
+	* _Pardon_ par [Ridsa](https://fr.wikipedia.org/wiki/Ridsa)
 	* _Investigations_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 	* _Speak Softly, Love (The Godfather Soundtrack)_ par [Nino Rota](https://en.wikipedia.org/wiki/Nino_Rota)
 	* _The X-Files_ par [Mark Snow](https://en.wikipedia.org/wiki/Mark_Snow)
@@ -1280,8 +1286,6 @@ Update: 20191216
 
 * **NAAAAAN (Rocket League)**
 
-* **COURSE POURSUITE AVEC LA POLICE (Arma 3 RP)**
-
 * **LA GROSSE CATAPULTE !!! (Human: Fall Flat)**
 
 * **LE TOURNAGE DE KOH-LANTA (Animation)**
@@ -1721,7 +1725,7 @@ Update: 20191216
 	* _Sad Romance (a.k.a. Sad Violin)_ par Ji PyeongKyeon
 	* _Musique inconnue à 08:11_
 	* _Another day at the office_ par Michael Huang
-	* _Musique inconnue à 09:42_
+	* _Take a Chance_ par [Kevin MacLeod](https://incompetech.com/music/) - licence [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 	* _Tourner les serviettes_ par [Patrick Sébastien](https://fr.wikipedia.org/wiki/Patrick_S%C3%A9bastien)
 	* _Musique inconnue à 23:34_
 	* _Catch You_ par [Kill Paris](https://soundcloud.com/killparis)
@@ -1926,7 +1930,7 @@ Update: 20191216
 * **[À la recherche du petit Dimitri (The Forest)](https://www.youtube.com/watch?v=Wn0wFetvr30)**
 	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 	* _Spanish Flea_ par [Herb Alpert and the Tijuana Brass](https://en.wikipedia.org/wiki/Herb_Alpert)
-	* _Musique inconnue à 08:16_
+	* _Cassette 1 (The Forest: Original Game Soundtrack)_ par Gabe Castro
 	* _Catch You_ par [Kill Paris](https://soundcloud.com/killparis)
 	* _Shades Of Grey_ par [Oliver Heldens](https://en.wikipedia.org/wiki/Oliver_Heldens) et [Shaun Frank](https://en.wikipedia.org/wiki/Shaun_Frank) ft. Delaney Jane
 
@@ -1947,7 +1951,7 @@ Update: 20191216
 	* _Funny Walk_ par Ilya Kaplan
 	* _Sunshine Shakeout (Main Mix)_ par Alec Makinson
 	* _Spanish Flea_ par [Herb Alpert and the Tijuana Brass](https://en.wikipedia.org/wiki/Herb_Alpert)
-	* _Musique inconnue à 01:59_
+	* _Dead Island Trailer Theme_ par [Giles Lamb](https://en.wikipedia.org/wiki/Giles_Lamb)
 	* _Musique inconnue à 02:02_
 
 * **[AU MENU : ZOMBIES, TERRORISTES, CHIENS ET DINOSAURES (Fondue Savoyarde)](https://www.youtube.com/watch?v=n6_2BSp0aEU)**
@@ -1982,7 +1986,7 @@ Update: 20191216
 	* _Black_ par [Kari Kimmel](https://en.wikipedia.org/wiki/Kari_Kimmel)
 	* _Trinkets_ par Skip Peck
 	* _Think! (Jeopardy Theme)_ par Merv Griffin
-	* _Musique inconnue à 10:23_
+	* _Deep Shadow (The Hunger Games Trailer Theme)_ par [T.T.L.](https://en.wikipedia.org/wiki/Tying_Tiffany)
 	* _Catch You_ par [Kill Paris](https://soundcloud.com/killparis)
 	* _Dreamscape_ par [Savant](https://en.wikipedia.org/wiki/Savant_(musician))
 
@@ -2344,7 +2348,7 @@ Update: 20191216
 
 * **[AU MENU : CONTRE-SENS, LAURENT DEUTSCH ET LA FERME (Panini Nutella)](https://www.youtube.com/watch?v=MO9QjC4sOrk)**
 	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
-	* _Musique inconnue à 03:25_
+	* _Viva Las Vegas (extrait du film Snatch)_ par [Elvis Presley](https://en.wikipedia.org/wiki/Elvis_Presley)
 	* _Catch You_ par [Kill Paris](https://soundcloud.com/killparis)
 	* _I'm The One_ par [Flux Pavilion](https://en.wikipedia.org/wiki/Flux_Pavilion) & [Dillon Francis](https://soundcloud.com/dillonfrancis)
 
@@ -2381,7 +2385,7 @@ Update: 20191216
 	* _No More_ par [The Qemists](https://en.wikipedia.org/wiki/The_Qemists)
 
 * **[Les critiques de Terracid #3 // Ecran LG LA6208 3D Smart](https://www.youtube.com/watch?v=vzF0_qP9wyw)**
-	* _Musique inconnue à 00:02_
+	* _Blues Backing Tracks - Texas Shuffle (A)_ par Briggs/Marangoni
 
 * **[MARABOUCH'PIC ! (DayZ)](https://www.youtube.com/watch?v=XUhXWUfMePo)**
 	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
@@ -2518,7 +2522,7 @@ Update: 20191216
 * **[STAILLE HIRE !!! (DayZ)](https://www.youtube.com/watch?v=LyxZ0mZtYY4)**
 	* _Broken Dream_ par [Koke Núñez Gómez](http://kokenunezgomez.com/portfolio/)
 	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
-	* _Musique inconnue à 04:58_
+	* _Blues Backing Tracks - Texas Shuffle (A)_ par Briggs/Marangoni
 	* _Catch You_ par [Kill Paris](https://soundcloud.com/killparis)
 	* _One Two (Cormak Remix)_ par [Kairo Kingdom](https://soundcloud.com/kairokingdom)
 
@@ -2701,7 +2705,7 @@ Update: 20191216
 
 * **[Les Télétubbies c'est terrifiant (Slendytubbies)](https://www.youtube.com/watch?v=cNPft1SUeeM)**
 	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
-	* _Musique inconnue à 04:19_
+	* _Noche De Jangueo_ par Arcangel ft. Yaga y Makie, Ñengo Flow
 	* _Bit Time_ par [Funk4Mation](https://soundcloud.com/funk4mation) ft. [EH!DE](https://soundcloud.com/ehide-dubstep)
 
 * **[Je suis un tuyau pompompom (Splinter Cell Conviction)](https://www.youtube.com/watch?v=Ei3rxmL_88A)**
@@ -2797,7 +2801,7 @@ Update: 20191216
 * **[ET J'AI CRAMÉ (Half-Life 2 en COOP)](https://www.youtube.com/watch?v=i-ELRMO3vHQ)**
 	* _Plastic and Flashing Lights_ par [Professor Kliq](https://www.professorkliq.com/) - licence [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 	* _Think! (Jeopardy Theme)_ par Merv Griffin
-	* _Musique inconnue à 10:20_
+	* _Paradigm (TOER Remix)_ par [Chris Poirier](https://soundcloud.com/chrispoiriermusic) & [Auvic](https://soundcloud.com/auvicmusic)
 	* _Bounce (Destroid)_ par [Excision](https://en.wikipedia.org/wiki/Excision_(musician)) & [Space Laces](https://soundcloud.com/space-laces)
 
 * **[L'insurrection en prison ! (CS:Source)](https://www.youtube.com/watch?v=QX24-fHvXBw)**

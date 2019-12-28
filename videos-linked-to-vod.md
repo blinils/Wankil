@@ -1,4 +1,4 @@
-Update: 20191216
+Update: 20191228
 
 * **[Avec supplément jeux d'action svp (Kebab Mayo)](https://www.youtube.com/watch?v=fUB8N6QS-1c)** : 
 VOD Battlefield 4 
@@ -3178,6 +3178,10 @@ VOD Minecraft
 VOD Minecraft 
 [[8/?]](https://www.youtube.com/watch?v=AaT2hib3g7E) <!--01/10/2019--> 
 
+* **[ON RISQUE NOS VIES POUR ALLER AU CHÂTEAU (Minecraft) ft. SEB](https://www.youtube.com/watch?v=ciem2qGQKdg)** : 
+VOD Minecraft 
+[[8/?]](https://www.youtube.com/watch?v=AaT2hib3g7E) <!--01/10/2019--> 
+
 * **[ON CRAME CE FOUTU MANOIR !!! (Minecraft)](https://www.youtube.com/watch?v=rlj2DJbO8K8)** : 
 VOD Minecraft 
 [[9/?]](https://www.youtube.com/watch?v=MEQTL2LHRZk) <!--17/10/2019--> 
@@ -3262,9 +3266,19 @@ VOD Ready Set Heroes
 VOD Sweats du gage Wanklash #4 
 [[1/1]](https://www.youtube.com/watch?v=jZ9DprL5NSk) <!--06/12/2019--> 
 
+* **[MCDO, BURGER KING OU KFC ? (Tier List)](https://www.youtube.com/watch?v=hERoaGeGMjo)** : 
 VOD Tierlist de bouffe 
 [[1/1]](https://www.youtube.com/watch?v=ULos9PUWgFo) <!--09/12/2019--> 
 
 VOD CS:GO 
 [[1/1]](https://www.youtube.com/watch?v=MGDryY4WTs8) <!--12/12/2019--> 
+
+VOD Sea of Thieves 
+[[1/1]](https://www.youtube.com/watch?v=afP-vyPnWyw) <!--19/12/2019--> 
+
+VOD We Were Here Together 
+[[1/2]](https://www.youtube.com/watch?v=jPVTB9FYIJM) <!--23/12/2019--> 
+
+VOD Superliminal 
+[[1/1]](https://www.youtube.com/watch?v=gScRiKB4Dvk) <!--26/12/2019--> 
 
