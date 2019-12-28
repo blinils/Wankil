@@ -1,4 +1,4 @@
-_[<<< Page précédente - Wankil](https://github.com/nbrisset/Wankil)_
+_[<<< Page précédente - Wankil](../../../../Wankil)_
 
 _Disclaimer : Attention ! Warning ! Achtung ! Soyez extrêmement vigilants lorsque vous [copiez-collez des lignes de commande](https://thejh.net/misc/website-terminal-copy-paste) depuis Internet. Pensez bien à tourner sept fois vos doigts au-dessus de votre clavier avant d'appuyer sur Entrée._ En quelques lignes de commande et à l'aide du logiciel [ImageMagick](https://imagemagick.org/script/index.php), il est possible de faire des choses plutôt sympas avec les miniatures de vidéos YouTube.
 

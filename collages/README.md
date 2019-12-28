@@ -1,4 +1,4 @@
-_[<<< Page précédente - Wankil](https://github.com/nbrisset/Wankil)_
+_[<<< Page précédente - Wankil](../../../../Wankil)_
 
 Ces collages ont été conçus à l'aide du logiciel [webGobbler](https://sebsauvage.net/webgobbler/) de [Sébastien Sauvage](https://sebsauvage.net).
 
