@@ -1,4 +1,4 @@
-Update: 20191228
+Update: 20200308
 
 * 110km/h de puissance DANS TA GUEULE ! (DayZ)
 * 1 + 1 = JE SAIS PAS (The Escape)
@@ -52,6 +52,7 @@ Update: 20191228
 * ÇA S'EST PAS PASSÉ COMME PRÉVU BORDEL
 * CATAPULTE DE CACAS ENFLAMMÉS (Gears of War 4)
 * CE BÂTARD DE BOB L'ÉPONGE (Gmod Deathrun) ft. Guzz et Gydias
+* CE CIRQUE EST LE PLUS DANGEREUX DU MONDE (Heave Ho)
 * Celui qui gagne a baisé la sœur de l'autre (Mario Kart)
 * CELUI QUI PERD DONNE SON COMPTE TWITTER (Hitman 2)
 * CELUI QUI PERD SUCE L'AUTRE (SportsBar VR)
@@ -79,11 +80,13 @@ Update: 20191228
 * C'est pas bon mais c'est drôle (Saucisses Lentilles)
 * C'EST PAS UN JEU DE TAPETTES (Dying Light)
 * C'EST TOI QU'A PÉTÉ - LES AVENTURES WANKULS (Animation Officielle)
+* C'EST TOI QUI ME CHAUFFES DEPUIS TOUT À l'HEURE (Desert Skies)
 * C'EST TRÈS GÊNANT (SCUM)
 * C'EST TROP DAAAR LA REP' (Need for Speed) ft. Amixem, Superkonar et Hugo Délire
 * C'est un méchant ? (DayZ)
 * C'ÉTAIT UNE TRÈS MAUVAISE IDÉE (SCUM)
 * CETTE VIDÉO NE DEVAIT PAS SORTIR
+* CETTE VIDÉO VA ÊTRE DÉM0NÉTISÉE PAR YOUTUBE (Doom Eternal)
 * CHAMPAGNE ET MINI BURGERS (Fond vert)
 * Chanson - C'est quoi Guzzproductions
 * CHASSE AU POULET GÉANT (Dauntless)
@@ -113,6 +116,7 @@ Update: 20191228
 * CORENTIN - MUSIQUE (YouTunes Remix)
 * COURSE DE BEAUF COMME AUX USA (Wreckfest)
 * COURSE EXTRÊME DE BAGELS (I Am Bread)
+* COURSE POURSUITE AVEC LA POLICE (Arma 3 RP)
 * Dans la peau du Slenderman (Slender)
 * DÉGUISÉ EN TOILETTES, IL PASSE INAPERÇU (Prop Hunt)
 * DÉGUSTER LA PETITE (CS:GO)
@@ -130,6 +134,7 @@ Update: 20191228
 * DEUX CRÉTINS SUR UN JEU STRATÉGIQUE (Mario Lapins Cretins)
 * DEUX KÉKÉS DANS DES TANKS TUNING (Crossout)
 * DEVENIR RICHE EN 10 MINUTES (Business Tour) ft. Amixem et Cyril
+* DEVINE CE QU'ON DESSINE SUR PICTIONARY (Kebab Frites Boisson)
 * DEVINE LE WANKUL DES YOUTUBERS #1
 * DEVINE LE WANKUL DES YOUTUBERS #2
 * DEVINE LE WANKUL DES YOUTUBERS #3
@@ -175,6 +180,7 @@ Update: 20191228
 * GAGNER AVEC UNE SQUAD DE GOGOLES (Fortnite)
 * Go-fast à clicli
 * Gollum le mécano lèche tout ce qu'il trouve (Mad Max)
+* GRAND COUP DE MATRAQUE DANS LA TRONCHE (Gmod) ft. Squeezie et Cyril
 * GROS DÉBATS AVEC LES ABONNÉS (Comedy Night)
 * GROSSE SOIRÉE AVEC ALFRED ET PLEIN DE FILLES (Arma 3 RP) #EP2
 * Guide de survie des Castors Juniors (The Forest)
@@ -185,6 +191,7 @@ Update: 20191228
 * HARRY, VISE LES TESTICULES !!! (Sniper Elite 4)
 * HUMILIÉ EN CONDUITE PAR UN ENFANT DE 5 ANS
 * IL A PRIS DU FERME (CS:GO)
+* IL FAUT JAMAIS CREUSER SOUS SES PIEDS DANS MINECRAFT (Animation)
 * IL FAUT PROTÉGER LA REINE !!! (Holdfast Nations At War)
 * IL FAUT SAUVER DAME TERRINE (Assassin's Creed Unity)
 * IL FAUT SAUVER LE SOLDAT FLANTIER (Verdun)
@@ -213,17 +220,22 @@ Update: 20191228
 * J'AI GLISSÉ CAPITAINE (Blackwake) ft. Squeezie, Cyril, Mickalow
 * J'AI INVENTÉ UN NOUVEAU SPORT (CSS)
 * J'AI LA PREUVE QUE LA TERRE EST PLATE (Fear The Wolves)
+* J'AI LE DROIT, C'EST MA COUSINE (Shenmue 3)
+* J'AI PLUS DE PAPIER DANS LES TOILETTES (Unreal PT)
 * J'AI PO 8 ANS ! (Prop Hunt)
 * J'AI RETROUVÉ SES PIRES PHOTOS !
 * J'AI TRÉBUCHÉ DANS L'ESPACE-TEMPS (Star Citizen)
+* J'AI UNE MAUVAISE NOUVELLE À VOUS ANNONCER MADAME (Red Dead Redemption 2)
 * J'AI VOLÉ LA PLACE D'UN ACTEUR HOLLYWOODIEN (Borderlands 3)
 * JAMAIS PRENDRE SA DOUCHE EN PRISON (The Escapists 2)
 * J'APPELLE MA MÈRE POUR GAGNER LE MILLION (Qui veut gagner des millions)
 * J'APPRENDRE LA SURVIE ET LA CONJUGAISON (H1Z1)
+* JE DÉCOUVRE MES VRAIES ORIGINES
 * JE FAIS LIVRER MON KEBAB PAR DRONE (Ghost Recon Breakpoint)
 * JE L'AI TUÉ SANS FAIRE EXPRÈS... ENFIN PAS TOTALEMENT (Minecraft)
 * JE LUI DÉCLARE MON AMOUR (Kingdom Under Fire)
 * JE ME BARRE ! JE ME SUIS BARRÉ ! (DayZ)
+* JE ME SUIS COINCÉ UN TESTICULE (Five Nights at Freddy's)
 * JE PIRATE L'ORDI DE LA VOISINE (Welcome to the Game 2)
 * JE RACHÈTE LA JOCONDE POUR 5 DOLLARS (Thief Simulator)
 * Je saute en parachute comme Rico Rodriguez (Just Cause 3)
@@ -399,6 +411,7 @@ Update: 20191228
 * LE SECRET DU TACOS À LA SAUCISSE (The Division)
 * LES ÉMO VEULENT DÉTRUIRE L'UNIVERS (Destiny)
 * Les énigmes très compliquées (Half-Life 2 en COOP)
+* LES EXTRATERRESTRES EXISTENT ET ILS SONT MOCHES (No Man's Sky)
 * Les hélicozgegs (Mount Your Friends)
 * LES HISTOIRES COCHONNES CACHÉES DANS LA CABANE (Minecraft)
 * LES JEUX DE SOCIÉTÉ POUR ENFANTS (Tabletop Simulator)
@@ -471,6 +484,7 @@ Update: 20191228
 * MAIS ESPÈCE DE DÉBILE !!! (World of Warships)
 * MAISON CLOSE AVEC LES VILLAGEOIS (Minecraft)
 * MAIS PARTAGE LES RESSOURCES BORDEL !!! (Stellar Overload)
+* MAIS QUELLE ÎLE DE M**** !!! (Business Tour)
 * MAIS QUI VOUDRAIT ALLER DANS CE LYCÉE ?! (Obscure)
 * MAIS QUI VOUDRAIT ÊTRE YOUTUBER ?! (Black Ops 4)
 * MAIS TU ME JETTES DU CACA ?! (7 Days To Die) #EP3
@@ -505,6 +519,7 @@ Update: 20191228
 * NELSON MONFORT ET LA PLANÈTE DES SINGES (Rocket League)
 * NE MANGEZ PAS VOTRE PROPRE BIOMASSE (Memories of Mars)
 * NE REGARDE PAS SOUS LA JUPE DE NATACHA (Obscure)
+* NE REGARDE SURTOUT PAS EN BAS (Minecraft) ft. SEB
 * NE RENTRE PAS DANS CE PLACARD (Gmod Murder) ft. Squeezie, Cyril
 * NE RENTREZ JAMAIS DANS UN ENDROIT SOMBRE ET HUMIDE (Rust)
 * NETTOYER LES TOILETTES DANS LE FUTUR (The Surge)
@@ -522,6 +537,7 @@ Update: 20191228
 * ON A DOUBLÉ UN FILM (ft. Sofyan)
 * ON A FAIT LE TOP 1 !!! (H1Z1)
 * ON A FAIT UNE GROSSE BÊTISE (Arma 3 RP)
+* ON AFFRONTE MASTU ET LINCA SUR DES MINI-JEUX (Minecraft)
 * ON A PERDU DIMITRI (Animation)
 * ON A PERDU UN SPONSOR À CAUSE D'UNE BLAGUE (Silver Chains)
 * ON A PRIS LE MELON (CS:GO)
@@ -555,13 +571,13 @@ Update: 20191228
 * ON RACKETTE QUELQU'UN (Arma 3 RP)
 * ON REGARDE NOS PREMIÈRES VIDÉOS
 * ON RENCONTRE LES ABONNÉS SUR OMEGLE
-* ON RISQUE NOS VIES POUR ALLER AU CHÂTEAU (Minecraft) ft. SEB
 * ON S'AMUSE AVEC LE CORPS DE TRUMP (Surgeon Simulator)
 * ON S'ÉCHAPPE DE PRISON (A Way Out)
 * ON S’ÉCHAPPE D'UN MANOIR HANTÉ
 * ON SE FAIT PASSER POUR LEURS POTES (SCUM)
 * ON SE FAIT POURSUIVRE PAR LES FORAINS (Beware)
 * ON S'ENVOIE EN L'AIR ENTRE COPAINS (Metal Gear Solid 5) ft. Guzz, Amixem et Superkonar
+* ON S'EST INCRUSTÉ DANS DES ÉMISSIONS TV
 * ON VA AU FKC MEC (APB: Reloaded) ft. Guzz et Porto
 * ON VA DANS L'ESPACE !!! (Kerbal Space Program)
 * ON VA SE FAIRE SIMONE (Youtubers Life)
@@ -614,6 +630,7 @@ Update: 20191228
 * QUI PEUT PASSER UNE NUIT DANS CETTE MAISON ? (Conjuring House)
 * QUI VA GAGNER LA FINALE FRANCE - CROATIE (Fifa 18)
 * QUI VEUT GAGNER DES BITCOINS ?
+* QUI VEUT VOIR LE MONDE APRES UNE BOMBE ATOMIQUE ? (Metro Exodus)
 * Reporter Of Css Episode 1
 * Reporter Of Css Episode 2
 * Reporter Of Css Episode 3
@@ -631,15 +648,18 @@ Update: 20191228
 * SERPENTARD !!! (Rocket League)
 * SE TOUCHER LA ZIQUETTE DANS L'ESPACE (Star Citizen)
 * SEULS CONTRE 100 ABONNÉS ZOMBIES (PUBG)
+* SEULS LES PLUS INTELLIGENTS PEUVENT RÉSOUDRE CES ÉNIGMES (Escape First)
 * Shahana
+* SIMULATION DU CORONAVIRUS DANS LE MONDE (Plague Inc)
 * SIMULATION DU RAID DE LA ZONE 51 (Ultimate Epic Battle Simulator)
 * SI ON ÉTAIT EN COUPLE (Need For Drink)
 * SI TU RIGOLES, TU MEURS.
+* SI VOUS VOYEZ CET ANIMAL: FUYEZ !!! (Untitled Goose Game)
 * Soirée improvisée avec Zedane
 * SOLDATS EN FORMATION ZIQUETTE !!! (Total War)
 * Soupe au Pistou avec des morceaux de jeux dedans
 * SPARTIATES VS TORTUES (Ultimate Epic Battle Simulator)
-* SQUEEZIE ET LUCIOLE vs WANKIL (Wanklash #4) Daybreak
+* SQUEEZIE ET LUCIOLE vs WANKIL (Wanklash #4)
 * STAILLE HIRE !!! (DayZ)
 * STANNAH C'EST PLUS FORT QUE TOI !!! (Happy Wheels 3D)
 * STOP, NE BOUGEZ PLUS !!! (Get Even)
@@ -687,9 +707,12 @@ Update: 20191228
 * UTILISE TON GHETTO BLASTER LUKE ! (Star Wars Battlefront)
 * VALÉRIE NOUS FAIT PEUR POUR HALLOWEEN (Stairs)
 * Victime Bolosse (Half-Life 2 en COOP)
+* VIENS M'AFFRONTER SI TU ES UN HOMME (Pummel Party)
 * VISITE D'UN HÔPITAL ABANDONNÉ DE PSYCHOPATHES
 * VIS MA VIE DE POISSARD (What Remains of Edith Finch)
+* VOILÀ POURQUOI IL FAUT JAMAIS PARIER AVEC SES AMIS (Apex Legends)
 * VOS CHAUSSURES PEUVENT VOUS SAUVER (Half Dead 2)
+* VOUS AVEZ OUBLIÉ LA PAILLE DANS MA COMMANDE (Visage)
 * Vous avez pas vu ma femme ? (The Witcher 3)
 * VOUS AVEZ UN RHUME ? COUPEZ-VOUS LA JAMBE (911 Operator)
 * VOUS DESCENDEZ DE MON DISCO-BUS !!! (Bus Simulator)
