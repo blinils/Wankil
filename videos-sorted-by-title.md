@@ -1,4 +1,4 @@
-Update: 20200308
+Last update: 20201111
 
 * 110km/h de puissance DANS TA GUEULE ! (DayZ)
 * 1 + 1 = JE SAIS PAS (The Escape)
@@ -6,6 +6,7 @@ Update: 20200308
 * 200000 ABONNÉS !
 * À BOUÈRE, J'AI CHAUD ! (CS:GO)
 * Accompagnées de plusieurs jeux (Pommes Dauphines)
+* A) JE RALENTIS, B) JE M'ARRÊTE, C) J'ÉCRASE LE PIÉTON (Code de la route)
 * À la conquête de la galaxie (PULSAR: Lost Colony)
 * À la recherche du petit Dimitri (The Forest)
 * ALERTE BATARD (Half-Life en COOP)
@@ -20,7 +21,12 @@ Update: 20200308
 * ARMES, DROGUE ET PORN  (Welcome to the Game)
 * ARRÊTE D'ACCROCHER MON SLIP !!! (Frog Climbers)
 * ARRÊTEZ MONSIEUR LE DIRECTEUR (Outlast 2)
+* ASTUCE POUR FAIRE SES COURSES GRATUITEMENT (Sea of Thieves)
+* ATTENTION À BÉBÉ CAR IL VA S'ENVOLER (Code de la route)
+* ATTENTION À LA VOITURE DE MONSIEUR JOUBERT (World of Tanks)
+* ATTENTION BERNARD J'AI ENTENDU UN OURS (Rust)
 * ATTENTION TU PUES DE LA GUEULE (H1Z1)
+* AU DÉBUT J'ÉTAIS MOU, MAIS ENSUITE BIEN DUR (Mortal Shell)
 * AU MENU : CONTRE-SENS, LAURENT DEUTSCH ET LA FERME (Panini Nutella)
 * AU MENU : FROTTEMENTS, MINEFUN, ZOMBIES TOURISTES, MIEL POPS, ENJOY PHOENIX (Crêpe Suzette)
 * AU MENU: GENOUX, PAYSANS ET CAFARD (Bûche de Noël)
@@ -53,10 +59,13 @@ Update: 20200308
 * CATAPULTE DE CACAS ENFLAMMÉS (Gears of War 4)
 * CE BÂTARD DE BOB L'ÉPONGE (Gmod Deathrun) ft. Guzz et Gydias
 * CE CIRQUE EST LE PLUS DANGEREUX DU MONDE (Heave Ho)
+* CE DIPLODOCUS A DU WIFI ET UNE ANTENNE 5G (Horizon Zero Dawn)
 * Celui qui gagne a baisé la sœur de l'autre (Mario Kart)
 * CELUI QUI PERD DONNE SON COMPTE TWITTER (Hitman 2)
 * CELUI QUI PERD SUCE L'AUTRE (SportsBar VR)
 * Ce n'est que charme et sorcellerie monseigneur ! (Chivalry: Medieval Warfare)
+* CE QUE LES PAUVRES NE PEUVENT PAS AVOIR (Layers of Fear 2)
+* CE QUE VOUS NE SAVEZ PAS SUR SHREK (Dreams)
 * CE QU'IL SE PASSE DERRIÈRE LES SITES HOT (Telling Lies)
 * CE QU'IL SE PASSE RÉELLEMENT DERRIÈRE YOUTUBE (Dauntless)
 * CE QU'IL Y A VRAIMENT DANS VOS PIZZAS (Roblox)
@@ -79,12 +88,13 @@ Update: 20200308
 * C'EST NORMAL AU FAR WEST (Sky Noon)
 * C'est pas bon mais c'est drôle (Saucisses Lentilles)
 * C'EST PAS UN JEU DE TAPETTES (Dying Light)
-* C'EST TOI QU'A PÉTÉ - LES AVENTURES WANKULS (Animation Officielle)
+* C'EST TOI QU'A PÉTÉ - LES AVENTURES WANKULS (Animation)
 * C'EST TOI QUI ME CHAUFFES DEPUIS TOUT À l'HEURE (Desert Skies)
 * C'EST TRÈS GÊNANT (SCUM)
 * C'EST TROP DAAAR LA REP' (Need for Speed) ft. Amixem, Superkonar et Hugo Délire
 * C'est un méchant ? (DayZ)
 * C'ÉTAIT UNE TRÈS MAUVAISE IDÉE (SCUM)
+* C'ÉTAIT VRAIMENT PAS UNE BONNE IDÉE (Rust RP)
 * CETTE VIDÉO NE DEVAIT PAS SORTIR
 * CETTE VIDÉO VA ÊTRE DÉM0NÉTISÉE PAR YOUTUBE (Doom Eternal)
 * CHAMPAGNE ET MINI BURGERS (Fond vert)
@@ -98,6 +108,7 @@ Update: 20200308
 * COMMENT AVOIR L'AIR CON
 * COMMENT BIEN ATTRAPER LA QUEUE DE SON POTE (Unravel 2)
 * Comment bien conduire une calèche (Assassin's Creed Syndicate)
+* COMMENT BIEN FOIRER SA DEMANDE EN MARIAGE (Man of Medan)
 * COMMENT DEVENIR UN REBELLE (Arma 3 RP)
 * COMMENT DEVENIR UN YOUTUBER GAMING (Youtubers Life)
 * COMMENT EST FABRIQUÉE LA MAUVAISE FOI ? (CS:GO)
@@ -110,13 +121,16 @@ Update: 20200308
 * Comment faire quand tu as un gros ping ?
 * Comment faire quand tu reçois l'appel d'un inconnu ?
 * Comment faire quand un site est down ?
+* COMMENT GÉRER SON DÎNER ROMANTIQUE (Table Manners)
 * COMMENT METTRE FIN A SON AMITIÉ (Injustice 2)
 * COMMENT NE PAS S'OCCUPER D'UN BÉBÉ (Who's Your Daddy)
 * COMMENT TRICHER AU BACCALAURÉAT ? (CS:GO)
 * CORENTIN - MUSIQUE (YouTunes Remix)
 * COURSE DE BEAUF COMME AUX USA (Wreckfest)
+* COURSE DE BILLES INCROYABLE DES BOURGEOIS VS GUEUX (Marbles on Stream)
 * COURSE EXTRÊME DE BAGELS (I Am Bread)
 * COURSE POURSUITE AVEC LA POLICE (Arma 3 RP)
+* CROISSANT, TIRAMISU OU PAIN AU CHOCOLAT ? (Tier List)
 * Dans la peau du Slenderman (Slender)
 * DÉGUISÉ EN TOILETTES, IL PASSE INAPERÇU (Prop Hunt)
 * DÉGUSTER LA PETITE (CS:GO)
@@ -156,6 +170,8 @@ Update: 20200308
 * ESSAYEZ DE DEVINER CE QU'ON FAIT
 * EST-CE QUE TU ES UN BON ÉLÈVE ? (Battlefield V)
 * EST-CE QUE TU MOUILLES TA BROSSE À DENTS ? (Don't Knock Twice)
+* EST-CE QU'IL JOUE À LA MANETTE OU AU CLAVIER ? (CS:GO)
+* EST-CE QU'ON SAUVE D'ABORD LES GENS OU L'ARGENT ? (Embr)
 * ÊTES-VOUS ASSEZ FORT POUR RÉSOUDRE LES ÉNIGMES ? (We Were Here)
 * ÊTES-VOUS PLUS MALINS QUE NOUS ? (Escape Game)
 * ET J'AI CRAMÉ (Half-Life 2 en COOP)
@@ -174,6 +190,7 @@ Update: 20200308
 * F.A.Q. // Partie 2/4 - Les vidéos / le YouTube Game
 * F.A.Q. // Partie 3/4 - Le buzz / le futur / les jeux / les secrets
 * F.A.Q. // Partie 4/4 - La grotte / Twitter / les bâtards / vantardise
+* FAUT PAS LAISSER MAMIE SANS SA CULOTTE (Visage)
 * FIN DE WANKIL, EXPLICATION
 * Flamenkuche remplie de différents jeux
 * Fourrée avec plein de jeux différents (Dinde de Noël)
@@ -188,11 +205,13 @@ Update: 20200308
 * Harlem Shake BF3 (Laink et Terracid version)
 * HARRY, ATTENTION AUX CROQUE-MOLLET (Horror Deep)
 * Harry, fourre la dinde des secrets ! (Contagion)
+* HARRY POTTER EST CACHÉ DANS LES POUBELLES (Watch Dogs Legion)
 * HARRY, VISE LES TESTICULES !!! (Sniper Elite 4)
 * HUMILIÉ EN CONDUITE PAR UN ENFANT DE 5 ANS
 * IL A PRIS DU FERME (CS:GO)
 * IL FAUT JAMAIS CREUSER SOUS SES PIEDS DANS MINECRAFT (Animation)
 * IL FAUT PROTÉGER LA REINE !!! (Holdfast Nations At War)
+* IL FAUT SAUTER DU PLUS HAUT PLONGEOIR DU MONDE (Minecraft RTX) ft. Jiraya, Xari, Hugo
 * IL FAUT SAUVER DAME TERRINE (Assassin's Creed Unity)
 * IL FAUT SAUVER LE SOLDAT FLANTIER (Verdun)
 * IL FAUT SAUVER LES SOLDATS LAINK ET TERRACID (Post Scriptum)
@@ -203,9 +222,12 @@ Update: 20200308
 * IL PENSE QUE LA CHAÎNE VA ÊTRE SUPPRIMÉE
 * IL POSTE SA PHOTO INTIME SUR INTERNET (CS:GO)
 * ILS SONT SOUS LA MAISON !!! (7 Days To Die) #EP4
+* IL VA QUAND MÊME PAS TENTER LE SAUT IMPOSSIBLE ??!! (Heave Ho)
 * IL VOUS MANQUE UN BRAS MADAME (Dishonored 2)
 * Il y a DES POULES ! DES PUTAINS DE POULES ! (CS:GO)
-* INFILTRATION CHEZ LES RUSSES (Animation Officielle)
+* IL Y A RIEN QUI VA DANS CETTE FOUTUE VILLE (Saints Row 3)
+* IMPOSSIBLE DE PAS PÉTER LES PLOMBS ft. Gotaga, Doigby (Stay Strong Challenge)
+* INFILTRATION CHEZ LES RUSSES (Animation)
 * INFILTRATION DE LÂCHE AVEC AMIXEM (Rainbow Six Siege) exclu Gamescom
 * Infiltration et cracottes (Splinter Cell: Blacklist)
 * INFILTRATION RATÉE DANS LA PRISON (GTA V)
@@ -214,6 +236,7 @@ Update: 20200308
 * J’ACHÈTE LAS VEGAS POUR 100 EUROS (Business Tour)
 * Jacques, le Squelette Sympa (Half-Life 2: EP2 en COOP)
 * J'AI CACHÉ MA BELLE-MÈRE DANS LE BUNKER (House Flipper)
+* J'AI ENVIE DE CLAQUER MON ESCALOPE (The Cycle)
 * J'AI EU UN GRAVE ACCIDENT AU CERVEAU (Storm Chasers)
 * J'AI FAIT UN UNBOXING SANS FAIRE EXPRÈS
 * J'AI GAGNÉ LE SUPER COUTEAU !!! (Case Opening CS:GO)
@@ -227,21 +250,31 @@ Update: 20200308
 * J'AI TRÉBUCHÉ DANS L'ESPACE-TEMPS (Star Citizen)
 * J'AI UNE MAUVAISE NOUVELLE À VOUS ANNONCER MADAME (Red Dead Redemption 2)
 * J'AI VOLÉ LA PLACE D'UN ACTEUR HOLLYWOODIEN (Borderlands 3)
+* J'AI VOLÉ SON CAMEMBERT DONC JE VAIS EN PRISON (Skyrim Coop)
 * JAMAIS PRENDRE SA DOUCHE EN PRISON (The Escapists 2)
 * J'APPELLE MA MÈRE POUR GAGNER LE MILLION (Qui veut gagner des millions)
 * J'APPRENDRE LA SURVIE ET LA CONJUGAISON (H1Z1)
+* J'CROIS QUE J'AI PERDU LE RÉACTEUR NUCLÉAIRE (Hardspace Shipbreaker)
+* JE CROIS QUE LA MAISON EST HANTÉE (Phasmophobia VR)
+* JE CROIS QU'ON A REMPLACÉ VOTRE BRAS PAR VOTRE JAMBE (Surgeon Simulator 2)
+* JE CROIS QU'ON COULE MON CAPITAINE (World of Warships)
+* JE CROIS QU'ON DOIT ATTERRIR EN URGENCE (Flight Simulator)
 * JE DÉCOUVRE MES VRAIES ORIGINES
 * JE FAIS LIVRER MON KEBAB PAR DRONE (Ghost Recon Breakpoint)
 * JE L'AI TUÉ SANS FAIRE EXPRÈS... ENFIN PAS TOTALEMENT (Minecraft)
 * JE LUI DÉCLARE MON AMOUR (Kingdom Under Fire)
 * JE ME BARRE ! JE ME SUIS BARRÉ ! (DayZ)
 * JE ME SUIS COINCÉ UN TESTICULE (Five Nights at Freddy's)
+* JE ME SUIS FAIT AGRESSER PAR DES FILLES AU COLLÈGE (CS:GO)
 * JE PIRATE L'ORDI DE LA VOISINE (Welcome to the Game 2)
 * JE RACHÈTE LA JOCONDE POUR 5 DOLLARS (Thief Simulator)
 * Je saute en parachute comme Rico Rodriguez (Just Cause 3)
+* JE SOULÈVE HARRY POTTER AU QUIDDITCH (Broomstick League)
+* J'ESPÈRE QUE MA MÈRE N'EST PAS LA SEULE À FAIRE ÇA... (Rogue Company)
 * J'ESSAYE DE GAGNER LES MEILLEURES ARMES (Case Opening CS:GO)
 * JESSICA FAIS VOIR TA KIKINE ! (Outlast 2)
 * JE SUIS À LA RUE (Business Tour)
+* JE SUIS LE DIEU DU GAZOULE (SnowRunner)
 * JE SUIS UNE GROSSE TRUIE (Trials Rising)
 * Je suis un props
 * Je suis un tuyau pompompom (Splinter Cell Conviction)
@@ -256,7 +289,7 @@ Update: 20200308
 * LA BATMOBILE DE L'ARROGANCE (Rocket League)
 * La brosse à dents
 * La caisse qui fait *bip bip* (Nether)
-* LA CANETTE AUX ONGLES (Animation Officielle)
+* LA CANETTE AUX ONGLES (Animation)
 * LA CARAPACE BLEUE DE SES MORTS !!! (Mario Kart 8) ft. Jiraya et Hugo
 * LA CHANCE A ENFIN TOURNÉ !!!
 * LA CHASSE AU DODO AVEC DENIS (RUST RP)
@@ -267,7 +300,7 @@ Update: 20200308
 * L'AFFRONTEMENT PAS SÉRIEUX (CS:GO) ft. Guzz et Porto
 * LA FINE STRATÉGIE (Murder)
 * LA FOIRE À LA SAUCISSE (Ben and Ed) ft. Amixem et Cyril
-* LA FORÊT - LES AVENTURES WANKULS (Animation Officielle)
+* LA FORÊT - LES AVENTURES WANKULS (Animation)
 * La France au GTX Challenge
 * LA GRANDE AVENTURE COMMENCE (Minecraft)
 * LA GRANDE GUERRE DES YOUTUBERS (Worms 3D)
@@ -293,7 +326,7 @@ Update: 20200308
 * LA MOUILLETTE (CS:GO)
 * LA MOULE FRAÎCHE (CS:GO)
 * La nature secrète de Guzz
-* L'ANECDOTE DU VIEUX QUI PUE (Animation Officielle)
+* L'ANECDOTE DU VIEUX QUI PUE (Animation)
 * LA NÉGOCIATION DES GROS BEAUFS (Arma 3 RP)
 * LA PIRE ÉCOLE AU MONDE (Outlast 2)
 * LA PIRE INFILTRATION (Ghost Recon Wildlands)
@@ -308,7 +341,9 @@ Update: 20200308
 * La rencontre avec Babilabux (DayZ)
 * La résistance à la campagne (Half-Life 2: EP2 en COOP)
 * LA REVANCHE DES BOTS (Guess Who)
+* LARGAGE DE SANDWICHS TRIANGLE POUR TOUT LE MONDE !!! (Hell Let Loose)
 * L'ARNAQUEUR ET LA ZENTORNO (GTA V)
+* LA RONDELLE DE FRODON (Animation)
 * LA ROULETTE DE SES MORTS !!! (Apex Legends) Ft. Hugo
 * LA SÉPARATION DE WANKIL (H1Z1)
 * La suite du défi Pot-au-feu (DayZ)
@@ -320,6 +355,7 @@ Update: 20200308
 * La Vengeance (DayZ RP - partie 2)
 * L'AVENTURE DE MALADE MENTAL (Sea of Thieves) ft. Amixem et Cyril
 * L'AVENTURE KOH LANTA (RUST RP)
+* LA VIEILLE CACHE UNE KALASH SOUS SA JUPE (Watch Dogs Legion)
 * L'AVION RÉVOLUTIONNAIRE SANS ROUES (GTA V)
 * LA VISITE CHEZ TATA MONIQUE (Half-Life 2 en COOP)
 * LA VOITURE LA PLUS RIDICULE DU MONDE (GTA V) ft. Guzz
@@ -329,7 +365,7 @@ Update: 20200308
 * LE CACHE-CACHE DES OBJETS IMPROBABLE (Prop Hunt)
 * LE CACHE-CACHE QUI FAIT SE FAIRE PIPI DESSUS (The Hidden: Source)
 * Le Camion Explosif (Half-Life 2 en COOP)
-* LE CHAOS - LES AVENTURES WANKULS (Animation Officielle)
+* LE CHAOS - LES AVENTURES WANKULS (Animation)
 * L'échec infini (Splinter Cell: Blacklist)
 * Le club des Papillons Verts (DayZ Origins)
 * LE CONCOURS DE LANCER DE SAC (PAYDAY 2) ft. Guzz et Gydias
@@ -343,7 +379,7 @@ Update: 20200308
 * LE FESTIVAL DES DÉBILOS (Warface)
 * Le fou rire de la biscotte (Splinter Cell: Blacklist)
 * LE GANT DE L'ARROGANCE (Stellar Overload)
-* LE GÂTEAU AU CACA (Animation Officielle)
+* LE GÂTEAU AU CACA (Animation)
 * LE GRAND KARAOKÉ (CS:GO)
 * LE GRAND TOURNOI DES YOUTUBERS (Mario tennis)
 * LE GROS BIDOU D'ALADIN (Mirage)
@@ -354,7 +390,7 @@ Update: 20200308
 * LE JEU OÙ TU VOMIS TES POTES (Styx : Shards of Darkness)
 * LE JEU QUI FAIT FAIRE PIPI DANS SON PANTALON (Damned)
 * Le jeu qui fait peur mais en coop (Cry of Fear)
-* LE JOUR OÙ J'AI MANGÉ DES FOURMIS (Animation Officielle)
+* LE JOUR OÙ J'AI MANGÉ DES FOURMIS (Animation)
 * LE JOUR OU ON A BATTU MRLEV12 (Rainbow Six Siege) ft. Hugo Délire
 * Le lancer de boules de 98' (Half-Life 2: EP2 en COOP)
 * LE MAXI BEST OF DE LAINK ET TERRACID
@@ -362,19 +398,21 @@ Update: 20200308
 * LE MEILLEUR JEU DU MONDE EST DE RETOUR (DayZ)
 * LE MEILLEUR SIMULATEUR D'ACCIDENTS (BeamNG Drive)
 * LE MEILLEUR SKIN GMOD (Gmod Horror Map)
-* L'ENFANT PAS SAGE - LES AVENTURES WANKULS (Animation Officielle)
+* L'ENFANT PAS SAGE - LES AVENTURES WANKULS (Animation)
 * Le Noël de Wankil | gagne dé kdo
+* LE NOUVEAU MINECRAFT QUE TOUT LE MONDE ATTENDAIT (Minecraft)
 * LE PÈRE NOËL A DES ORDURES (Viscera Cleanup Detail)
 * LE PIRE ABONNÉ EST DE RETOUR (CS:GO)
 * LE PIRE CAMBRIOLAGE (Klepto)
 * LE PIRE PARC D'ATTRACTION DU MONDE (Planet Coaster)
 * LE PLAN DIABOLIQUE DU DOCTEUR VANTROUDKU (Zombie COD)
 * LE PLUS GROS MYTHOMANE DU MONDE (Arma 3 RP)
+* LE PREMIER QUI DEVINE LE NOM DU FILM A GAGNÉ (Pixel Guess)
 * LE PROCHAIN FILM DE BRUCE WILLIS EN EXCLU (BeamNG Drive)
 * LE P'TIT RONDIN (CS:GO)
 * Le PVP en slip (DayZ)
 * LEQUEL DE NOUS DEUX AURA LE PLUS PEUR ? (Hide and Shriek)
-* L'ÉQUIPE DES JOLIES FESSES (Friday the 13th) ft. Le Bled'Art
+* L'ÉQUIPE DES JOLIES FESSES ft. Le Bledart (Friday the 13th)
 * Le quiz Seigneur des Anneaux avec les viewers (CS:Source)
 * Le racisme et l'intolérance (Insurgency)
 * LE RAP DU FEUTRE - MUSIQUE (Ashur4D Remix)
@@ -382,7 +420,7 @@ Update: 20200308
 * LE RETOUR DES YOUTUBERS À LA FERME
 * Le retour du pilote solitaire (The Crew)
 * LE RETOUR DU RP AVEC JAKOV ET RICHUS (DayZ RP) #1
-* LE RP C'EST DIFFICILE (Animation Officielle)
+* LE RP C'EST DIFFICILE (Animation)
 * LES ANECDOTES HORRIBLES SUR L'ENFANCE DE LAINK (Silver Chains)
 * LES APOCALYPSES ZOMBIES C'EST RIGOLO (Dying Light)
 * LES AUTOCOLLANTS DU GROS GABE (CS:GO)
@@ -411,15 +449,25 @@ Update: 20200308
 * LE SECRET DU TACOS À LA SAUCISSE (The Division)
 * LES ÉMO VEULENT DÉTRUIRE L'UNIVERS (Destiny)
 * Les énigmes très compliquées (Half-Life 2 en COOP)
+* LES ERREURS À NE PAS FAIRE SI ON VEUT SURVIVRE (Stranded Deep)
 * LES EXTRATERRESTRES EXISTENT ET ILS SONT MOCHES (No Man's Sky)
 * Les hélicozgegs (Mount Your Friends)
 * LES HISTOIRES COCHONNES CACHÉES DANS LA CABANE (Minecraft)
+* LES IDIOTS DU CONFINEMENT #2 (compilation)
+* LES IDIOTS DU CONFINEMENT #3 (compilation)
+* LES IDIOTS DU CONFINEMENT #4 (compilation)
+* LES IDIOTS DU CONFINEMENT #5 (compilation)
+* LES IDIOTS DU CONFINEMENT #6 (compilation)
+* LES IDIOTS DU CONFINEMENT (compilation)
+* LES INVENTIONS LES PLUS POURRIES ft. Potatoz, Myfuckinmess, etc (Jackbox)
 * LES JEUX DE SOCIÉTÉ POUR ENFANTS (Tabletop Simulator)
+* LES MAINS EN L'AIR ET TOUT LE MONDE ZOUK !!! (Police Simulator)
 * LES MEILLEURES PUNITIONS (Layers of Fear)
 * Les modules compliqués (Keep Talking and Nobody Explodes + Oculus Rift)
 * LES MOTHERFUCKING WINGSUITS ! (Far Cry 4)
 * Les Négociations (DayZ RP - partie 4)
 * LES NOUVELLES DEVINETTES
+* LE SOL C'EST VRAIMENT DE LA LAVE (Hot Lava)
 * LES PAYSANS COMBATTENT LA PESTE (The Black Death RP)
 * LES PIÈGES DE PAPI (Obscuritas)
 * LES PIRES COMMENTATEURS E-SPORT (Rocket League)
@@ -434,6 +482,7 @@ Update: 20200308
 * LES QUESTIONS EXISTENTIELLES (Rocket League)
 * LES RICHES VS LES PAUVRES (Warhammer Vermintide)
 * LES ROIS DE LA BASTON (Paint the Town Red)
+* LES ROIS DU DIAMANT C'EST NOUS ! ft. Squeezie, Fuze III, Bob Lennon, Doigby (Minecraft Mineral)
 * LES SECRETS ET COFFRES CACHÉS DU MONDE (Minecraft)
 * LES SECRETS QU'ON NE VOUS A JAMAIS DIT (FAQ 2019)
 * LES SPORTS EXTRÊMES À NE PAS FAIRE !
@@ -450,7 +499,7 @@ Update: 20200308
 * LES YOUTUBERS SAUVENT LA GALAXIE (ft. Amixem, Cyril - Star Trek VR)
 * LE TOURNAGE DE KOH-LANTA (Animation)
 * LE TOUT PETIT ZIZI (RUST RP)
-* LE TRIBUNAL - LES AVENTURES WANKULS (Animation Officielle)
+* LE TRIBUNAL - LES AVENTURES WANKULS (Animation)
 * Le tribunal (RUST RP)
 * LE T-SHIRT VOLÉ DE SIPHANO (GTA V)
 * LE TUBE (Battlefield 3)
@@ -530,6 +579,7 @@ Update: 20200308
 * NOS SECRETS LES PLUS INAVOUABLES (Test de pureté)
 * Nos Youtubers préférés en puzzle (Tabletop Simulator)
 * Notre décollage totalement réussi (DayZ Origins)
+* NOTRE NOUVELLE ENTREPRISE OUVRE SES PORTES (Rocket League)
 * NOTRE PROPRE PARCOURS DE GOLF (Salade Tomates Oignons)
 * OH NON PAS LUI !!! (CS:GO)
 * OK J'VEUX BIEN SORTIR AVEC TOI (Far Cry 5)
@@ -542,6 +592,7 @@ Update: 20200308
 * ON A PERDU UN SPONSOR À CAUSE D'UNE BLAGUE (Silver Chains)
 * ON A PRIS LE MELON (CS:GO)
 * On a rencontré Apu des Simpson (DayZ)
+* ON A TOUJOURS PAS NOTRE PERMIS ET ALORS ?! (Code de la route)
 * ON AURAIT JAMAIS DÛ FAIRE DES PARIS... (CS:GO)
 * ON AVAIT DIT PAS LA TÊTE ! (For Honor)
 * ON CLASH NOS ABONNÉS TRIGGERED (CS:GO)
@@ -564,10 +615,12 @@ Update: 20200308
 * ON OUVRE VOS COLIS, C'EST LÉGAL OU PAS ?
 * ON OUVRE VOS COLIS, C'ÉTAIT PAS UNE BONNE IDÉE...
 * ON OUVRE VOS COLIS, VOUS ÊTES DES MALADES !
+* ON OUVRE VOS COLIS, VOUS VOULEZ NOUS FAIRE SOUFFRIR
 * ON PARIE NOS PARTIES DU CORPS (CS:GO)
 * On part à la chasse ! (The Hunter)
 * ON PART POUR UNE AVENTURE ! (Miscreated)
 * ON PILOTE DE VRAIS TANKS À TCHERNOBYL !!! (Isotopium)
+* ON PREND LA BAGNOLE DIRECTION LA CORSE (Euro Truck Simulator)
 * ON RACKETTE QUELQU'UN (Arma 3 RP)
 * ON REGARDE NOS PREMIÈRES VIDÉOS
 * ON RENCONTRE LES ABONNÉS SUR OMEGLE
@@ -587,22 +640,29 @@ Update: 20200308
 * ON VOUS OFFRE DES GROS CADEAUX !
 * OPÉRATION LAMA (Ghost Recon Wildlands) ft. Guzz et Hugo Délire
 * OÙ EST CHARLIE QUE JE LUI METTE UNE BALLE ? (CS:GO Coop)
+* OUGA BOUGA LE FEU (Hand Simulator Survival)
 * OUI MA BELLE REGARDE L'OBJECTIF (Visage)
 * OUPS J'AI FABRIQUÉ UNE BOMBE ATOMIQUE (Fallout 76)
 * OUPS J'AI TIRÉ SUR LA VIEILLE FOLLE (Loco Parentis)
 * OÙ TROUVER DE L'OR FACILEMENT (Gold Rush)
 * OUVREZ LES ÉCOUTILLES DE BALLES ! (CS:GO)
+* OUVREZ-MOI !! VENEZ ME CHERCHER, Y A UN FANTÔME !!! (Phasmophobia) ft. Hugo
 * PANIQUE EN CUISINE (Overcooked)
 * PAPI NOUS PARLE DES ALLEMANDS (World Of Tanks) ft. Hugo
+* PAR CONTRE FRANCIS TU VAS ME RENDRE MON GOÛTER (Apex Legends)
 * PAR DESSUS LA TROISIÈME CORDE ! (Gang Beasts)
 * PAS AVEC LES DOIGTS - MUSIQUE (Tids Remix)
+* PAS D'INQUIÉTUDE, C'EST NORMAL SI L'AVION EST EN FEU (Amnesia: Rebirth)
+* PASSE ENCORE UNE FOIS DEVANT LA TÉLÉ ET T'ES MORT (Detroit Become Human)
 * PAS TOUCHE À ÇA JACQUELINE !!! (Hand Simulator)
 * Pâtes au beurre avec tout pleins de jeux dans l’assiette
 * PÊCHE A LA CARPE AVEC AMIXEM (Euro Fishing)
 * Pêche et violence gratuite (DayZ)
 * Pédro la bétonneuse et the final countdown (DayZ Origins)
+* PETIT KICKFLIP PUIS JE GRIND SUR LA CAISSE DU DIRECTEUR (Tony Hawk's Pro Skater)
 * PEUT-ON BOIRE SON PIPI ?
 * Peut-on conduire sans permis ? (Project CARS)
+* PEUT-ON FAIRE CUIRE UN LARDON SUR SON PC ? (CRYSIS)
 * PEUT-ON FAIRE CUIRE UN OEUF SUR SON PC ?
 * PGM LOL ZIZI PGM (CS:GO)
 * PIGEON QUI VOLE EST PLUS RUSÉ QUE RENARD QUI PÈTE (Aragami)
@@ -613,8 +673,10 @@ Update: 20200308
 * POUR COMBIEN TU VENDS TON SPERME ? (Day of Infamy)
 * POURQUOI JE PEUX PLUS MANGER DE PIZZA (Cuisine Royale)
 * POURQUOI LE GOLF DÉTRUIT DES AMITIÉS (Golf It) ft. Hugo
+* POURQUOI VOS COLIS N'ARRIVENT PAS EN BON ÉTAT (Truck & Logistics)
 * POURSUIVIS PAR DES SQUELETTES (Stairs)
 * PROBLEMES GASTRIQUES (DayZ) ft. Guzz
+* QUAND FAUT SUCER LA PLAIE DE SON POTE POUR LE SAUVER (Green Hell)
 * QUAND TA PROPRE ODEUR TE DÉRANGE (CS:GO)
 * QUAND TON COÉQUIPIER EST UN ENFANT (CS:GO)
 * QUAND TU VAS CHEZ MICROMANIA
@@ -624,13 +686,20 @@ Update: 20200308
 * QU'EST CE QUI A 4 JAMBES ET 1 CARAPACE ? (CS:GO)
 * QU'EST CE QUI EST GROS ET QUI PUE ? (Dauntless)
 * QUESTION POUR UN CHAMPION AVEC LES ABONNÉS (Master of the Grid)
+* QUI A MANGÉ LE MAIRE CETTE NUIT ? ft. Squeezie, Gotaga, Kameto, Locklear (Minecraft Loup Garou)
+* QUI A PEINT LE GROS BÉBÉ QUI PISSE ?! (Layers of Fear)
 * QUI DE NOUS DEUX VA DEVENIR RICHE ?
 * QUI EST LE LOUP-GAROU ? (Werewolves Within VR) ft. Amixem, Cyril
 * QUI FAIT LA TAILLE ET LE POIDS D'UNE TRUIE ? (Resident Evil 2)
+* QUI M'A VOLÉ MES DIAMANTS ???!!! ft. Squeezie, Gotaga, Kameto, Snaptrox (Minecraft Mineral)
 * QUI PEUT PASSER UNE NUIT DANS CETTE MAISON ? (Conjuring House)
+* QUI POURRAIT SE TAPER UN ROBOT ? (Detroit Become Human)
+* QUI SONT LES TRAÎTRES ? ft. Squeezie, Gotaga, Kameto, Locklear, Maghla, etc. (Minecraft Loup Garou)
 * QUI VA GAGNER LA FINALE FRANCE - CROATIE (Fifa 18)
 * QUI VEUT GAGNER DES BITCOINS ?
+* QUI VEUT GAGNER DES RILLETTES (Master of the Grid)
 * QUI VEUT VOIR LE MONDE APRES UNE BOMBE ATOMIQUE ? (Metro Exodus)
+* QUI VOUDRAIT NOUS AVOIR DANS SON ÉQUIPE ? (Apex Legends)
 * Reporter Of Css Episode 1
 * Reporter Of Css Episode 2
 * Reporter Of Css Episode 3
@@ -710,6 +779,7 @@ Update: 20200308
 * VIENS M'AFFRONTER SI TU ES UN HOMME (Pummel Party)
 * VISITE D'UN HÔPITAL ABANDONNÉ DE PSYCHOPATHES
 * VIS MA VIE DE POISSARD (What Remains of Edith Finch)
+* VOILA CE QU'IL SE PASSE QUAND VOUS COMMANDEZ A MANGER (Cooking Simulator)
 * VOILÀ POURQUOI IL FAUT JAMAIS PARIER AVEC SES AMIS (Apex Legends)
 * VOS CHAUSSURES PEUVENT VOUS SAUVER (Half Dead 2)
 * VOUS AVEZ OUBLIÉ LA PAILLE DANS MA COMMANDE (Visage)
@@ -718,10 +788,11 @@ Update: 20200308
 * VOUS DESCENDEZ DE MON DISCO-BUS !!! (Bus Simulator)
 * VOUS FAITES QUOI SOUS LA DOUCHE ? (CS:GO)
 * VOUS N'ARRIVEREZ PLUS À DORMIR (RE77)
+* VOUS N'EN CROIREZ PAS VOS YEUX, ET POURTANT... (Valorant)
 * VOYAGE AU CŒUR DE LA GALAXIE (Animation)
 * VROUM L'INTESTIN (Surgeon Simulator)
 * WANKIL SHOW POUR LES 1 MILLION D'ABONNÉS
+* WEJDENE, JE SUIS TON PÈRE (Star Wars Squadrons)
 * Y A PAS D'CALCAIRE ! (Hurtworld)
 * YO MISTER WHITE ! OH BITCH... (No More Room In Hell) ft. Guzz et Porto
 * You like blood transfusion ? (DayZ)
-
